@@ -51,7 +51,7 @@
         </div>
 
         <!--CIRCLES-->
-        <div class="circle--yellow-top" style="position: relative;top: -268px;left: -50%;width: 100% height:100%;background:#FFDC60;border-radius: 50%;" data-v-inspector="pages/index.vue:8:3" data-v-02281a80=""></div>
+        <div class=" circle circle--yellow-top"></div>
 
         <div class="half--blue-right"></div>
         <div class="circle circle--yellow-middle">
@@ -484,7 +484,7 @@
 .half--blue-right{
   position: absolute;
   top: -10px;
-  right: 48px;
+  right: 0px;
   z-index: -1;
     width: 741px;
     height: 1028px;
@@ -492,15 +492,16 @@
     border-radius: 660px 0 0 660px;
 }
 .circle--yellow-top{
-  position: absolute;
   border-radius: 50%;
   width: 400px;
   height: 400px;
   color: #FFDC60;
-  left: 0;
-  top: 0;
+  margin-top: -202px;
+  margin-left: -200px;
+  display: block;
 }
 .circle--yellow-middle{
+  z-index: -1;
   position: absolute;
   top: 114px;
   right: 668px;
@@ -511,7 +512,7 @@
   width: 48px;
   height: 48px;
   color: #FAB8C4;
-  top: 401px;
+  top: 478px;
   left: 18%;
 }
 .circle--pink-bottom{
@@ -520,7 +521,7 @@
   width: 180px;
   height: 180px;
   top: 763px;
-  right: 169px;
+  right: 870px;
 }
 .house-image{
   position: absolute;
@@ -574,6 +575,8 @@
   align-items: center;
   width: fit-content;
   height: fit-content;
+  margin-left: 267px;
+  margin-top: 99px;
 }
 .slogan-brand h2{
   padding-top: 172px;
@@ -616,7 +619,6 @@
 
 .dark-theme{
   top: 850px;
-  left: -8px;
   z-index: -2;
   position: absolute;
   width: 100%;
@@ -1145,7 +1147,6 @@ left: 425px;
   .main-container{
   position: relative;
   width: 100%;
-
   margin-bottom: auto;
 }
 
