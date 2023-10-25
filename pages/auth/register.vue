@@ -9,18 +9,27 @@
     <header>
       <h1>Register Page</h1>
       <p>its register form</p>
+      <NuxtLink to='/auth'>You already have an account?</NuxtLink>
     </header>
 
 
     <main>
 
       <div class="form-content">
+
+        <span class="circle--pink"></span>
+
         <!--        action="LoginUser"-->
         <form>
-          <div>
+          <div class="form--field">
+           <!-- <svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25" fill="none">
+              <path opacity="0.3" d="M12 11.5C9.79086 11.5 8 9.70914 8 7.5C8 5.29086 9.79086 3.5 12 3.5C14.2091 3.5 16 5.29086 16 7.5C16 9.70914 14.2091 11.5 12 11.5Z" fill="#5956E9"/>
+              <path d="M3.00065 20.6992C3.38826 15.9265 7.26191 13.5 11.9833 13.5C16.7712 13.5 20.7049 15.7932 20.9979 20.7C21.0096 20.8955 20.9979 21.5 20.2467 21.5C16.5411 21.5 11.0347 21.5 3.7275 21.5C3.47671 21.5 2.97954 20.9592 3.00065 20.6992Z" fill="#5956E9"/>
+            </svg>-->
             <label for=""
                    :class="username.length<3 ? 'error' : '' "
             >
+
               username
             </label>
             <input v-model="username"
@@ -34,7 +43,7 @@
             <input >
           </div>
 
-          <div class="form-field" >
+          <div class=" form-field" >
             <label for="">password</label>
             <input>
           </div>
@@ -44,6 +53,16 @@
         </form>
 
         <button @click="RegisterUser">REGISTER</button>
+
+
+        <ol>
+          <li>first</li>
+          <li>first</li>
+          <li>first</li>
+          <li>first</li>
+          <li>first</li>
+          <li>first</li>
+        </ol>
 
       </div>
 
@@ -88,5 +107,22 @@ export default {
 /*for just this page styling*/
 .error{
   color: red;
+}
+
+.circle--pink{
+  width: 128px;
+  height: 128px;
+
+  display: block;
+  border-radius: 50%;
+
+  background-color: #FAB8C4;
+
+
+}
+
+.form--field{
+  display: flex;
+
 }
 </style>
