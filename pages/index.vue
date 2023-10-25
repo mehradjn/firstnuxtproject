@@ -1145,6 +1145,7 @@ left: 425px;
   .main-container{
   position: relative;
   width: 100%;
+
   margin-bottom: auto;
 }
 
