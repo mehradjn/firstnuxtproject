@@ -146,11 +146,16 @@
         </div>
         <div class="light-theme circle-yellow"></div>
         <div class="light-theme circle-pink"></div>
-        <div class="light-theme circle--style">
-          <div style="width: 478px; height: 0px; left: 700px; top: 586px; position: absolute; transform: rotate(-45deg); transform-origin: 0 0; border: 1px #E3E6E9 solid"></div>
-          <div style="width: 40px; height: 40px; left: 1018px; top: 228px; position: absolute; background: #5956E9; border-radius: 9999px"></div>
-          <div style="width: 90px; height: 90px; left: 655px; top: 541px; position: absolute; background: #FFDC60; border-radius: 9999px"></div>
-          <div style="width: 495px; height: 496px; left: 803px; top: 0px; position: absolute; border-radius: 9999px; border: 1px #E3E6E9 solid"></div>
+        <div class="box">
+          <div class="group">
+            <div class="ellipse" />
+            <div class="overlap-group">
+              <img class="line" alt="Line" src="line-183.svg" />
+              <div class="div" />
+              <div class="ellipse-2" />
+              <div class="ellipse-3" />
+            </div>
+          </div>
         </div>
         <div class="light-theme clock--style">
           <img src="clock.svg" alt="clock">
@@ -192,15 +197,15 @@
      <div class="middle-circle--scroll"></div>
       <div class="middle-explain">
         <div class="top-explain">Join The Revolution</div>
-  <div class="second-explain"><span class="second-explain f--span">Find the</span>  <span class="second-explain s--span">Right Plan</span>.</div>
+   <div class="second-explain"><span class="second-explain f--span">Find the</span>  <span class="second-explain s--span">Right Plan</span>.</div>
         <div class="third-explain">
           <span class="span--third-explain">Flexible pricing options for freelancers <br> and design teams.</span>
         </div>
       </div>
       <div CLASS="bord">
       <div class="bottom-exp--dark">
-<div class="price-list--mother">
-<div class="price-list--son">
+   <div class="price-list--mother">
+   <div class="price-list--son">
         <div style="width: 100%; height: 100%; justify-content: center; align-items: flex-start; gap: 40px; display: inline-flex">
           <div style="width: 320px; height: 520px; position: relative">
             <div style="width: 320px; height: 520px; left: 0px; top: 0px; position: absolute; background: #5956E9; border-radius: 32px"></div>
@@ -348,10 +353,10 @@
             </div>
           </div>
         </div>
-</div>
-  <div class="price-circle"></div>
-  <div class="price-circle--bottom"></div>
-</div>
+   </div>
+   <div class="price-circle"></div>
+   <div class="price-circle--bottom"></div>
+    </div>
 
       </div>
 
@@ -459,7 +464,6 @@
         </div>
       </div>
     </section>
-
   </div>
 
 
@@ -539,6 +543,7 @@
   top: 7px;
 }
 .wrapper{
+  margin: 60px;
   position: relative;
   z-index: -22;
 }
@@ -809,12 +814,77 @@
    background: #FAB8C4;
    border-radius: 50%;
  }
-.circle--style {
+.box {
+  height: 631px;
+  position: relative;
+  width: 1298px;
+}
+
+.box .group {
+  height: 631px;
+  left: 0;
   position: absolute;
-  width: fit-content;
-  height: fit-content;
-  top: 653px;
-  left: 499px;
+  top: 0;
+  width: 1298px;
+}
+
+.box .ellipse {
+  background-color: #fab8c4;
+  border-radius: 45px;
+  height: 90px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 243px;
+  width: 90px;
+}
+
+.box .overlap-group {
+  height: 631px;
+  left: 655px;
+  position: absolute;
+  top: 0;
+  width: 643px;
+}
+
+.box .line {
+  height: 339px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 247px;
+  width: 339px;
+}
+
+.box .div {
+  background-color: #5956e8;
+  border-radius: 20px;
+  height: 40px;
+  left: 363px;
+  position: absolute;
+  top: 228px;
+  width: 40px;
+}
+
+.box .ellipse-2 {
+  background-color: #ffdc60;
+  border-radius: 45px;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 541px;
+  width: 90px;
+}
+
+.box .ellipse-3 {
+  border: 1px solid;
+  border-color: #e3e6e9;
+  border-radius: 247.5px/248px;
+  height: 496px;
+  left: 148px;
+  position: absolute;
+  top: 0;
+  width: 495px;
 }
 .item--calender{
   top: 324px;
@@ -1140,16 +1210,6 @@ left: 425px;
   height: 100%;
   position: relative;
 }
-.sign-up-nav{
-  align-items: end;
-  text-align: center;
-  margin-top: 120px;
-  display: flex;
-  width: 1960px;
-  height: 540px;
-  position: relative;
-  justify-content: center;
-}
 
   .main-container{
   position: relative;
@@ -1197,7 +1257,6 @@ left: 425px;
 }
 
 .box .element-instagram {
-  background-image: url(./shape.svg);
   background-size: 100% 100%;
   height: 16px;
   left: 851px;
@@ -1291,7 +1350,7 @@ left: 425px;
 
 .box .rectangle {
   background-color: #5956e8;
-  border-radius: 0px 10px 10px 0px;
+  border-radius: 0 10px 10px 0;
   height: 52px;
   left: 195px;
   position: absolute;
@@ -1335,7 +1394,6 @@ left: 425px;
 }
 
 .box .logo {
-  background-image: url(./shape-2.svg);
   background-size: 100% 100%;
   height: 34px;
   left: 0;
@@ -1460,4 +1518,77 @@ left: 425px;
   width: 20px;
 }
 
+
+@media (max-width: 460px) {
+
+
+.wrapper {
+  width: fit-content;
+  position: relative;
+  z-index: -22;
+  overflow: hidden;
+ }
+  .name-logo {
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+}
+
+.circle--pink-bottom {
+position: absolute;
+border-radius: 50%;
+width: 180px;
+height: 180px;
+top: 770px;
+right: 680px;
+}
+.dark--place {
+position: absolute;
+width: 1108px;
+height: 700px;
+background: #27272E;
+z-index: -4;
+border-radius: 40px;
+border: 1px white solid;
+top: 1234px;
+left: 51px;
+}
+  .explanation-dark--theme {
+background: none;
+top: 1292px;
+left: 112px;
+height: fit-content;
+width: fit-content;
+position: absolute;
+color: white;
+font-size: 75px;
+font-family: DM Sans;
+font-weight: 500;
+line-height: 75px;
+word-wrap: break-word;
+}
+
+  .file-look--back[data-v-02281a80] {
+    position: absolute;
+    top: 649px;
+    right: 99px;
+  }
+  .file-look--front[data-v-02281a80] {
+    position: absolute;
+    top: 717px;
+    right: 122px;
+  }
+.circle-pink--darktheme {
+all: unset;
+}
+.find-the-right {
+top: 2239px;
+right: 373px;
+z-index: -3;
+position: relative;
+width: 100%;
+height: 1102px;
+background: #fff;
+}
+}
 </style>
