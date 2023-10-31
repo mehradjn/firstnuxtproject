@@ -3,6 +3,7 @@
 </script>
 
 <template>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <div class="wrapper">
 
@@ -404,50 +405,58 @@
           </div>
           <div style="width: 810px; left: 100px; top: 120px; position: absolute; color: white; font-size: 80px; font-family: DM Sans; font-weight: 500; line-height: 80px; word-wrap: break-word">Ready to use the smartest design tool?</div>
         </div>
-        <div class="sign-up-nav">
-          <div style="width: 1922px; height: 544px; left: 0px; top: 0px; background: #27272E"></div>
-          <div style="width: 7.94px; height: 15.88px; left: 742px; top: 287px; background: white"></div>
-          <div style="width: 19.56px; height: 15.89px; left: 789.97px; top: 287px; background: white"></div>
-          <div style="width: 16px; height: 16px; left: 849.97px; top: 287px; ">
-            <div style="width: 1.07px; height: 1.07px; left: 11.77px; top: 3.17px; position: absolute; background: white; border-radius: 9999px"></div>
-          </div>
-          <div style="width: 289px; height: 139px; padding-top: 36px; padding-left: 4px; padding-right: 5px; left: 233px; top: 182px; position: absolute; flex-direction: column; justify-content: flex-end; align-items: flex-end; gap: 11px; display: inline-flex">
-            <div style="width: 274px; height: 33px; color: white; font-size: 22px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Subscribe to our newsletter<br/></div>
-            <div style="width: 279.83px; height: 59px; position: relative">
-              <div style="width: 258.12px; height: 34.31px; left: 0px; top: 24.69px; position: absolute; opacity: 0.25; background: #99A1AA; box-shadow: 48px 48px 48px; border-radius: 20px; filter: blur(48px)"></div>
-              <div style="width: 274.46px; height: 52.28px; left: 2.83px; top: 0px; position: absolute; background: white; border-radius: 10px"></div>
-              <div style="width: 85px; height: 52.28px; left: 194.83px; top: 0px; position: absolute; background: #5956E9; border-top-left-radius: 10px; border-top-right-radius: 10px"></div>
-              <div style="width: 58.81px; height: 13.07px; left: 14.83px; top: 15px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">Email</div>
-              <div style="left: 211.83px; top: 13px; position: absolute; text-align: center; color: white; font-size: 16px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Submit</div>
-            </div>
-          </div>
-          <div style="width: 332px; height: 84px; padding-top: 0.26px; left: 236px; top: 60px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 30px; display: inline-flex">
-            <img style="width: 39.13px; height: 33.74px" src="https://via.placeholder.com/39x34" />
-            <div style="width: 332px; color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Copyright © 2020. LogoIpsum. All rights reserved.</div>
-          </div>
-          <div style="width: 106px; height: 182px; left: 774px; top: 60px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 20px; display: inline-flex">
-            <div style="color: white; font-size: 17px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Services</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Email Marketing</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Campaigns</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Branding</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Offline</div>
-          </div>
-          <div style="width: 65px; height: 182px; left: 1030px; top: 60px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 20px; display: inline-flex">
-            <div style="color: white; font-size: 17px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">About</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Our Story</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Benefits</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Team</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Careers</div>
-          </div>
-          <div style="width: 50px; height: 50px; left: 1255px; top: 60px; position: absolute">
-            <div style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 25px"></div>
-            <div style="width: 20px; height: 20px; left: 14.81px; top: 35.50px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0">
-              <div style="width: 6.18px; height: 10px; left: 5px; top: -7.15px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: #5E4DCD"></div>
-              <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0"></div>
+        <div class="box">
+          <div class="nav">
+            <div class="overlap">
+              <img class="element-facebook" alt="Element facebook" src="001-facebook.png" />
+              <img class="element-twitter" alt="Element twitter" src="003-twitter.png" />
+              <div class="element-instagram">
+                <div class="overlap-group">
+                  <img class="shape" alt="Shape" src="image.svg" />
+                  <div class="oval" />
+                </div>
+              </div>
+              <div class="newsletter">
+                <div class="subscribe-to-our-new">Subscribe to our newsletter</div>
+                <div class="text-box">
+                  <div class="div">
+                    <div class="drop-shadow" />
+                    <div class="text-box-bg" />
+                    <div class="rectangle" />
+                    <div class="text-wrapper">Email</div>
+                    <div class="text-wrapper-2">Submit</div>
+                  </div>
+                </div>
+              </div>
+              <div class="logo-about">
+                <div class="logo" />
+                <p class="copyright-lo">
+                  Copyright © 2020.
+                  LogoIpsum. All rights reserved.
+                </p>
+              </div>
+              <div class="services">
+                <div class="text-wrapper-3">Services</div>
+                <div class="text-wrapper-4">Email Marketing</div>
+                <div class="text-wrapper-5">Campaigns</div>
+                <div class="text-wrapper-6">Branding</div>
+                <div class="text-wrapper-7">Offline</div>
+              </div>
+              <div class="about">
+                <div class="text-wrapper-3">About</div>
+                <div class="text-wrapper-4">Our Story</div>
+                <div class="text-wrapper-5">Benefits</div>
+                <div class="text-wrapper-6">Team</div>
+                <div class="text-wrapper-7">Careers</div>
+              </div>
+              <div class="back-to-top">
+                <div class="ic-keyboard-arrow-wrapper">
+                  <img class="ic-keyboard-arrow" alt="Ic keyboard arrow" src="ic-keyboard-arrow-right-48px.png" />
+                </div>
+              </div>
             </div>
           </div>
         </div>
-
       </div>
     </section>
 
@@ -480,6 +489,7 @@
 </template>
 
 <style scoped>
+
 
 .half--blue-right{
   position: absolute;
@@ -739,8 +749,7 @@
 
 
 .light-theme{
-  top: 1200px;
-  right: 90px;
+  top: 715px;
   z-index: -3;
   position: relative;
   width: 100%;
@@ -874,7 +883,7 @@
   border-radius: 40px;
   border: 1px white solid;
   top: 1234px;
-  left: 394px;
+  left: 290px;
 }
 .explanation-dark--theme{
   background: none;
@@ -961,8 +970,8 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
 
 
 .find-the-right{
-  top: 2730px;
-  right: 90px;
+  top: 2239px;
+  right: 110px;
   z-index: -3;
   position: relative;
   width: 100%;
@@ -1083,8 +1092,7 @@ left: 425px;
 
 .showcase-mother{
     overflow: hidden;
-    top: 2802px;
-    right: -11px;
+    top: 2372px;
     z-index: -3;
     position: relative;
     width: 100%;
@@ -1116,8 +1124,7 @@ left: 425px;
 
 .sign-up-mother{
   overflow: hidden;
-  top: 2797px;
-  right: -9px;
+  top: 2262px;
   z-index: -3;
   position: relative;
   width: 100%;
@@ -1150,5 +1157,307 @@ left: 425px;
   margin-bottom: auto;
 }
 
+
+.box {
+  height: 544px;
+  width: 1440px;
+}
+
+.box .nav {
+  height: 544px;
+  left: 0;
+  position: relative;
+  top: 0;
+  width: 1440px;
+}
+
+.box .overlap {
+  background-color: #27272e;
+  height: 546px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1442px;
+}
+
+.box .element-facebook {
+  height: 16px;
+  left: 743px;
+  position: absolute;
+  top: 288px;
+  width: 8px;
+}
+
+.box .element-twitter {
+  height: 16px;
+  left: 791px;
+  position: absolute;
+  top: 288px;
+  width: 20px;
+}
+
+.box .element-instagram {
+  background-image: url(./shape.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 851px;
+  position: absolute;
+  top: 288px;
+  width: 16px;
+}
+
+.box .overlap-group {
+  height: 9px;
+  left: 4px;
+  position: relative;
+  top: 3px;
+  width: 9px;
+}
+
+.box .shape {
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 8px;
+}
+
+.box .oval {
+  background-color: #ffffff;
+  border-radius: 0.53px;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.box .newsletter {
+  height: 139px;
+  left: 234px;
+  position: absolute;
+  top: 183px;
+  width: 289px;
+}
+
+.box .subscribe-to-our-new {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: -0.3px;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 274px;
+}
+
+.box .text-box {
+  height: 59px;
+  left: 4px;
+  position: absolute;
+  top: 80px;
+  width: 284px;
+}
+
+.box .div {
+  height: 59px;
+  position: relative;
+  width: 280px;
+}
+
+.box .drop-shadow {
+  background-color: #99a0aa;
+  border-radius: 20px;
+  filter: blur(48px);
+  height: 34px;
+  left: 0;
+  opacity: 0.25;
+  position: absolute;
+  top: 25px;
+  width: 258px;
+}
+
+.box .text-box-bg {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 52px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 274px;
+}
+
+.box .rectangle {
+  background-color: #5956e8;
+  border-radius: 0px 10px 10px 0px;
+  height: 52px;
+  left: 195px;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.box .text-wrapper {
+  color: #999fae;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: -0.4px;
+  line-height: 24px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.box .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 212px;
+  letter-spacing: -0.64px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+}
+
+.box .logo-about {
+  height: 84px;
+  left: 237px;
+  position: absolute;
+  top: 61px;
+  width: 332px;
+}
+
+.box .logo {
+  background-image: url(./shape-2.svg);
+  background-size: 100% 100%;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.box .copyright-lo {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  top: 63px;
+  width: 332px;
+}
+
+.box .services {
+  height: 182px;
+  left: 775px;
+  position: absolute;
+  top: 61px;
+  width: 106px;
+}
+
+.box .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.box .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+}
+
+.box .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+}
+
+.box .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+}
+
+.box .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  top: 161px;
+}
+
+.box .about {
+  height: 182px;
+  left: 1031px;
+  overflow: hidden;
+  position: absolute;
+  top: 61px;
+  width: 65px;
+}
+
+.box .back-to-top {
+  height: 50px;
+  left: 1256px;
+  position: absolute;
+  top: 61px;
+  width: 50px;
+}
+
+.box .ic-keyboard-arrow-wrapper {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 52px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 52px;
+}
+
+.box .ic-keyboard-arrow {
+  height: 20px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 20px;
+}
 
 </style>
