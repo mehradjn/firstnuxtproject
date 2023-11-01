@@ -86,7 +86,7 @@
         <div class="dark-theme item--circle-right"></div>
         <div class="dark-theme explanation--theme">Compelete Backup <br/>Soloution For All Devices</div>
         <div class="wordpress">
-         <img src="/wordpress 1.svg" alt="wordpress">
+         <img src="/wordpress1.svg" alt="wordpress">
         </div>
          <div class="apple-icon">
            <img src="/apple-logo.svg" alt="apple">
@@ -376,7 +376,7 @@
           </div>
         </div>
           <div class="box">
-            <img class="group" alt="Group" src="/Group 240.svg" />
+            <img class="group" alt="Group" src="/Group240.svg" />
           </div>
       </div>
     </section>

@@ -58,7 +58,7 @@
                     <div class="overlap-group-4">
                       <div class="email-2">
                         <input class="email-address" id="input-2" placeholder="Email address" type="email" />
-                        <img class="subtract" alt="Subtract" src="/Frame (1).svg" />
+                        <img class="subtract" alt="Subtract" src="/Frame(1).svg" />
                       </div>
                     </div>
                   </div>
