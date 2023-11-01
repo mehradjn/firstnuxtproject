@@ -3,6 +3,7 @@
 </script>
 
 <template>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <div class="wrapper">
 
@@ -51,7 +52,7 @@
         </div>
 
         <!--CIRCLES-->
-        <div class="circle--yellow-top" style="position: relative;top: -268px;left: -50%;width: 100% height:100%;background:#FFDC60;border-radius: 50%;" data-v-inspector="pages/index.vue:8:3" data-v-02281a80=""></div>
+        <div class=" circle circle--yellow-top"></div>
 
         <div class="half--blue-right"></div>
         <div class="circle circle--yellow-middle">
@@ -145,11 +146,16 @@
         </div>
         <div class="light-theme circle-yellow"></div>
         <div class="light-theme circle-pink"></div>
-        <div class="light-theme circle--style">
-          <div style="width: 478px; height: 0px; left: 700px; top: 586px; position: absolute; transform: rotate(-45deg); transform-origin: 0 0; border: 1px #E3E6E9 solid"></div>
-          <div style="width: 40px; height: 40px; left: 1018px; top: 228px; position: absolute; background: #5956E9; border-radius: 9999px"></div>
-          <div style="width: 90px; height: 90px; left: 655px; top: 541px; position: absolute; background: #FFDC60; border-radius: 9999px"></div>
-          <div style="width: 495px; height: 496px; left: 803px; top: 0px; position: absolute; border-radius: 9999px; border: 1px #E3E6E9 solid"></div>
+        <div class="box">
+          <div class="group">
+            <div class="ellipse" />
+            <div class="overlap-group">
+              <img class="line" alt="Line" src="line-183.svg" />
+              <div class="div" />
+              <div class="ellipse-2" />
+              <div class="ellipse-3" />
+            </div>
+          </div>
         </div>
         <div class="light-theme clock--style">
           <img src="clock.svg" alt="clock">
@@ -191,15 +197,15 @@
      <div class="middle-circle--scroll"></div>
       <div class="middle-explain">
         <div class="top-explain">Join The Revolution</div>
-  <div class="second-explain"><span class="second-explain f--span">Find the</span>  <span class="second-explain s--span">Right Plan</span>.</div>
+   <div class="second-explain"><span class="second-explain f--span">Find the</span>  <span class="second-explain s--span">Right Plan</span>.</div>
         <div class="third-explain">
           <span class="span--third-explain">Flexible pricing options for freelancers <br> and design teams.</span>
         </div>
       </div>
       <div CLASS="bord">
       <div class="bottom-exp--dark">
-<div class="price-list--mother">
-<div class="price-list--son">
+   <div class="price-list--mother">
+   <div class="price-list--son">
         <div style="width: 100%; height: 100%; justify-content: center; align-items: flex-start; gap: 40px; display: inline-flex">
           <div style="width: 320px; height: 520px; position: relative">
             <div style="width: 320px; height: 520px; left: 0px; top: 0px; position: absolute; background: #5956E9; border-radius: 32px"></div>
@@ -347,10 +353,10 @@
             </div>
           </div>
         </div>
-</div>
-  <div class="price-circle"></div>
-  <div class="price-circle--bottom"></div>
-</div>
+   </div>
+   <div class="price-circle"></div>
+   <div class="price-circle--bottom"></div>
+    </div>
 
       </div>
 
@@ -404,53 +410,60 @@
           </div>
           <div style="width: 810px; left: 100px; top: 120px; position: absolute; color: white; font-size: 80px; font-family: DM Sans; font-weight: 500; line-height: 80px; word-wrap: break-word">Ready to use the smartest design tool?</div>
         </div>
-        <div class="sign-up-nav">
-          <div style="width: 1922px; height: 544px; left: 0px; top: 0px; background: #27272E"></div>
-          <div style="width: 7.94px; height: 15.88px; left: 742px; top: 287px; background: white"></div>
-          <div style="width: 19.56px; height: 15.89px; left: 789.97px; top: 287px; background: white"></div>
-          <div style="width: 16px; height: 16px; left: 849.97px; top: 287px; ">
-            <div style="width: 1.07px; height: 1.07px; left: 11.77px; top: 3.17px; position: absolute; background: white; border-radius: 9999px"></div>
-          </div>
-          <div style="width: 289px; height: 139px; padding-top: 36px; padding-left: 4px; padding-right: 5px; left: 233px; top: 182px; position: absolute; flex-direction: column; justify-content: flex-end; align-items: flex-end; gap: 11px; display: inline-flex">
-            <div style="width: 274px; height: 33px; color: white; font-size: 22px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Subscribe to our newsletter<br/></div>
-            <div style="width: 279.83px; height: 59px; position: relative">
-              <div style="width: 258.12px; height: 34.31px; left: 0px; top: 24.69px; position: absolute; opacity: 0.25; background: #99A1AA; box-shadow: 48px 48px 48px; border-radius: 20px; filter: blur(48px)"></div>
-              <div style="width: 274.46px; height: 52.28px; left: 2.83px; top: 0px; position: absolute; background: white; border-radius: 10px"></div>
-              <div style="width: 85px; height: 52.28px; left: 194.83px; top: 0px; position: absolute; background: #5956E9; border-top-left-radius: 10px; border-top-right-radius: 10px"></div>
-              <div style="width: 58.81px; height: 13.07px; left: 14.83px; top: 15px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">Email</div>
-              <div style="left: 211.83px; top: 13px; position: absolute; text-align: center; color: white; font-size: 16px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Submit</div>
-            </div>
-          </div>
-          <div style="width: 332px; height: 84px; padding-top: 0.26px; left: 236px; top: 60px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 30px; display: inline-flex">
-            <img style="width: 39.13px; height: 33.74px" src="https://via.placeholder.com/39x34" />
-            <div style="width: 332px; color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Copyright © 2020. LogoIpsum. All rights reserved.</div>
-          </div>
-          <div style="width: 106px; height: 182px; left: 774px; top: 60px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 20px; display: inline-flex">
-            <div style="color: white; font-size: 17px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Services</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Email Marketing</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Campaigns</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Branding</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Offline</div>
-          </div>
-          <div style="width: 65px; height: 182px; left: 1030px; top: 60px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; gap: 20px; display: inline-flex">
-            <div style="color: white; font-size: 17px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">About</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Our Story</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Benefits</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Team</div>
-            <div style="color: white; font-size: 15px; font-family: DM Sans; font-weight: 400; word-wrap: break-word">Careers</div>
-          </div>
-          <div style="width: 50px; height: 50px; left: 1255px; top: 60px; position: absolute">
-            <div style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 25px"></div>
-            <div style="width: 20px; height: 20px; left: 14.81px; top: 35.50px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0">
-              <div style="width: 6.18px; height: 10px; left: 5px; top: -7.15px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; background: #5E4DCD"></div>
-              <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0"></div>
+        <div class="box">
+          <div class="nav">
+            <div class="overlap">
+              <img class="element-facebook" alt="Element facebook" src="001-facebook.png" />
+              <img class="element-twitter" alt="Element twitter" src="003-twitter.png" />
+              <div class="element-instagram">
+                <div class="overlap-group">
+                  <img class="shape" alt="Shape" src="image.svg" />
+                  <div class="oval" />
+                </div>
+              </div>
+              <div class="newsletter">
+                <div class="subscribe-to-our-new">Subscribe to our newsletter</div>
+                <div class="text-box">
+                  <div class="div">
+                    <div class="drop-shadow" />
+                    <div class="text-box-bg" />
+                    <div class="rectangle" />
+                    <div class="text-wrapper">Email</div>
+                    <div class="text-wrapper-2">Submit</div>
+                  </div>
+                </div>
+              </div>
+              <div class="logo-about">
+                <div class="logo" />
+                <p class="copyright-lo">
+                  Copyright © 2020.
+                  LogoIpsum. All rights reserved.
+                </p>
+              </div>
+              <div class="services">
+                <div class="text-wrapper-3">Services</div>
+                <div class="text-wrapper-4">Email Marketing</div>
+                <div class="text-wrapper-5">Campaigns</div>
+                <div class="text-wrapper-6">Branding</div>
+                <div class="text-wrapper-7">Offline</div>
+              </div>
+              <div class="about">
+                <div class="text-wrapper-3">About</div>
+                <div class="text-wrapper-4">Our Story</div>
+                <div class="text-wrapper-5">Benefits</div>
+                <div class="text-wrapper-6">Team</div>
+                <div class="text-wrapper-7">Careers</div>
+              </div>
+              <div class="back-to-top">
+                <div class="ic-keyboard-arrow-wrapper">
+                  <img class="ic-keyboard-arrow" alt="Ic keyboard arrow" src="ic-keyboard-arrow-right-48px.png" />
+                </div>
+              </div>
             </div>
           </div>
         </div>
-
       </div>
     </section>
-
   </div>
 
 
@@ -481,10 +494,11 @@
 
 <style scoped>
 
+
 .half--blue-right{
   position: absolute;
   top: -10px;
-  right: 48px;
+  right: 0px;
   z-index: -1;
     width: 741px;
     height: 1028px;
@@ -492,15 +506,16 @@
     border-radius: 660px 0 0 660px;
 }
 .circle--yellow-top{
-  position: absolute;
   border-radius: 50%;
   width: 400px;
   height: 400px;
   color: #FFDC60;
-  left: 0;
-  top: 0;
+  margin-top: -202px;
+  margin-left: -200px;
+  display: block;
 }
 .circle--yellow-middle{
+  z-index: -1;
   position: absolute;
   top: 114px;
   right: 668px;
@@ -511,7 +526,7 @@
   width: 48px;
   height: 48px;
   color: #FAB8C4;
-  top: 401px;
+  top: 478px;
   left: 18%;
 }
 .circle--pink-bottom{
@@ -520,7 +535,7 @@
   width: 180px;
   height: 180px;
   top: 763px;
-  right: 169px;
+  right: 870px;
 }
 .house-image{
   position: absolute;
@@ -528,6 +543,7 @@
   top: 7px;
 }
 .wrapper{
+  margin: 60px;
   position: relative;
   z-index: -22;
 }
@@ -574,6 +590,8 @@
   align-items: center;
   width: fit-content;
   height: fit-content;
+  margin-left: 267px;
+  margin-top: 99px;
 }
 .slogan-brand h2{
   padding-top: 172px;
@@ -616,7 +634,6 @@
 
 .dark-theme{
   top: 850px;
-  left: -8px;
   z-index: -2;
   position: absolute;
   width: 100%;
@@ -737,8 +754,7 @@
 
 
 .light-theme{
-  top: 1200px;
-  right: 90px;
+  top: 715px;
   z-index: -3;
   position: relative;
   width: 100%;
@@ -798,12 +814,77 @@
    background: #FAB8C4;
    border-radius: 50%;
  }
-.circle--style {
+.box {
+  height: 631px;
+  position: relative;
+  width: 1298px;
+}
+
+.box .group {
+  height: 631px;
+  left: 0;
   position: absolute;
-  width: fit-content;
-  height: fit-content;
-  top: 653px;
-  left: 499px;
+  top: 0;
+  width: 1298px;
+}
+
+.box .ellipse {
+  background-color: #fab8c4;
+  border-radius: 45px;
+  height: 90px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 243px;
+  width: 90px;
+}
+
+.box .overlap-group {
+  height: 631px;
+  left: 655px;
+  position: absolute;
+  top: 0;
+  width: 643px;
+}
+
+.box .line {
+  height: 339px;
+  left: 44px;
+  object-fit: cover;
+  position: absolute;
+  top: 247px;
+  width: 339px;
+}
+
+.box .div {
+  background-color: #5956e8;
+  border-radius: 20px;
+  height: 40px;
+  left: 363px;
+  position: absolute;
+  top: 228px;
+  width: 40px;
+}
+
+.box .ellipse-2 {
+  background-color: #ffdc60;
+  border-radius: 45px;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 541px;
+  width: 90px;
+}
+
+.box .ellipse-3 {
+  border: 1px solid;
+  border-color: #e3e6e9;
+  border-radius: 247.5px/248px;
+  height: 496px;
+  left: 148px;
+  position: absolute;
+  top: 0;
+  width: 495px;
 }
 .item--calender{
   top: 324px;
@@ -872,7 +953,7 @@
   border-radius: 40px;
   border: 1px white solid;
   top: 1234px;
-  left: 394px;
+  left: 290px;
 }
 .explanation-dark--theme{
   background: none;
@@ -959,8 +1040,8 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
 
 
 .find-the-right{
-  top: 2730px;
-  right: 90px;
+  top: 2239px;
+  right: 110px;
   z-index: -3;
   position: relative;
   width: 100%;
@@ -1081,8 +1162,7 @@ left: 425px;
 
 .showcase-mother{
     overflow: hidden;
-    top: 2802px;
-    right: -11px;
+    top: 2372px;
     z-index: -3;
     position: relative;
     width: 100%;
@@ -1114,8 +1194,7 @@ left: 425px;
 
 .sign-up-mother{
   overflow: hidden;
-  top: 2797px;
-  right: -9px;
+  top: 2262px;
   z-index: -3;
   position: relative;
   width: 100%;
@@ -1131,16 +1210,6 @@ left: 425px;
   height: 100%;
   position: relative;
 }
-.sign-up-nav{
-  align-items: end;
-  text-align: center;
-  margin-top: 120px;
-  display: flex;
-  width: 1960px;
-  height: 540px;
-  position: relative;
-  justify-content: center;
-}
 
   .main-container{
   position: relative;
@@ -1149,4 +1218,404 @@ left: 425px;
 }
 
 
+.box {
+  height: 544px;
+  width: 1440px;
+}
+
+.box .nav {
+  height: 544px;
+  left: 0;
+  position: relative;
+  top: 0;
+  width: 1440px;
+}
+
+.box .overlap {
+  background-color: #27272e;
+  height: 546px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 1442px;
+}
+
+.box .element-facebook {
+  height: 16px;
+  left: 743px;
+  position: absolute;
+  top: 288px;
+  width: 8px;
+}
+
+.box .element-twitter {
+  height: 16px;
+  left: 791px;
+  position: absolute;
+  top: 288px;
+  width: 20px;
+}
+
+.box .element-instagram {
+  background-size: 100% 100%;
+  height: 16px;
+  left: 851px;
+  position: absolute;
+  top: 288px;
+  width: 16px;
+}
+
+.box .overlap-group {
+  height: 9px;
+  left: 4px;
+  position: relative;
+  top: 3px;
+  width: 9px;
+}
+
+.box .shape {
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 8px;
+}
+
+.box .oval {
+  background-color: #ffffff;
+  border-radius: 0.53px;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.box .newsletter {
+  height: 139px;
+  left: 234px;
+  position: absolute;
+  top: 183px;
+  width: 289px;
+}
+
+.box .subscribe-to-our-new {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: -0.3px;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 274px;
+}
+
+.box .text-box {
+  height: 59px;
+  left: 4px;
+  position: absolute;
+  top: 80px;
+  width: 284px;
+}
+
+.box .div {
+  height: 59px;
+  position: relative;
+  width: 280px;
+}
+
+.box .drop-shadow {
+  background-color: #99a0aa;
+  border-radius: 20px;
+  filter: blur(48px);
+  height: 34px;
+  left: 0;
+  opacity: 0.25;
+  position: absolute;
+  top: 25px;
+  width: 258px;
+}
+
+.box .text-box-bg {
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 52px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 274px;
+}
+
+.box .rectangle {
+  background-color: #5956e8;
+  border-radius: 0 10px 10px 0;
+  height: 52px;
+  left: 195px;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.box .text-wrapper {
+  color: #999fae;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: -0.4px;
+  line-height: 24px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.box .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 212px;
+  letter-spacing: -0.64px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+}
+
+.box .logo-about {
+  height: 84px;
+  left: 237px;
+  position: absolute;
+  top: 61px;
+  width: 332px;
+}
+
+.box .logo {
+  background-size: 100% 100%;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.box .copyright-lo {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  top: 63px;
+  width: 332px;
+}
+
+.box .services {
+  height: 182px;
+  left: 775px;
+  position: absolute;
+  top: 61px;
+  width: 106px;
+}
+
+.box .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.box .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+}
+
+.box .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+}
+
+.box .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+}
+
+.box .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "DM Sans-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  top: 161px;
+}
+
+.box .about {
+  height: 182px;
+  left: 1031px;
+  overflow: hidden;
+  position: absolute;
+  top: 61px;
+  width: 65px;
+}
+
+.box .back-to-top {
+  height: 50px;
+  left: 1256px;
+  position: absolute;
+  top: 61px;
+  width: 50px;
+}
+
+.box .ic-keyboard-arrow-wrapper {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 52px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 52px;
+}
+
+.box .ic-keyboard-arrow {
+  height: 20px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 20px;
+}
+
+
+@media (max-width: 460px) {
+
+
+  .wrapper {
+   width: fit-content;
+   position: relative;
+   z-index: -22;
+   overflow: hidden;
+  }
+    .name-logo {
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    }
+
+  .circle--pink-bottom {
+   position: absolute;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    top: 770px;
+    right: 680px;
+    }
+.dark--place {
+position: absolute;
+width: 1108px;
+height: 700px;
+background: #27272E;
+z-index: -4;
+border-radius: 40px;
+border: 1px white solid;
+top: 1234px;
+left: 51px;
+}
+  .explanation-dark--theme {
+background: none;
+top: 1292px;
+left: 112px;
+height: fit-content;
+width: fit-content;
+position: absolute;
+color: white;
+font-size: 75px;
+font-family: DM Sans;
+font-weight: 500;
+line-height: 75px;
+word-wrap: break-word;
+}
+
+    .file-look--back[data-v-02281a80] {
+    position: absolute;
+    top: 649px;
+    right: 99px;
+    }
+  .file-look--front[data-v-02281a80] {
+    position: absolute;
+    top: 717px;
+    right: 122px;
+  }
+   .circle-pink--darktheme {
+   all: unset;
+   }
+  .find-the-right {
+   top: 2239px;
+   right: 373px;
+   z-index: -3;
+   position: relative;
+   width: 100%;
+   height: 1102px;
+   background: #fff;
+   }
+    .explanation-brand[data-v-02281a80] {
+    top: 170px;
+    color: #999FAE;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 47px;
+    margin-top: 88px;
+    }
+
+  .wrapper-head {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  left: -127px;
+  top: -44px;
+  }
+}
 </style>
