@@ -91,7 +91,6 @@
         </div>
       </div>
       <div class="ellipse-7" />
-      <img class="cube" alt="Cube" src="cube.png" />
     </div>
   </div>
   </div>
@@ -579,14 +578,6 @@
   position: absolute;
   top: 918px;
   width: 213px;
-}
-
-.login-step .cube {
-  height: 129px;
-  left: 1355px;
-  position: absolute;
-  top: 473px;
-  width: 85px;
 }
 
 
