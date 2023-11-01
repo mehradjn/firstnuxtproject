@@ -8,7 +8,7 @@
     <div class="div">
       <div class="overlap">
         <div class="box">
-        <img class="cloud" src="/cloud-2.svg" alt="cloud">
+        <img class="cloud" src="/cloud-22.svg" alt="cloud">
         </div>
         <div class="ellipse-1" />
         <div class="group">
