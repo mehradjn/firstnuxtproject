@@ -58,7 +58,7 @@
                     <div class="overlap-group-4">
                       <div class="email-2">
                         <input class="email-address" id="input-2" placeholder="Email address" type="email" />
-                        <img class="google-icon" alt="GOOGLE-ICON" src="/Google__G__Logo%201.svg" />
+                        <img class="google-icon" alt="GOOGLE-ICON" src="/Google__G__Logo.svg" />
                       </div>
                     </div>
                   </div>

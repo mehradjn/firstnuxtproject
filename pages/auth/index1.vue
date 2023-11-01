@@ -32,7 +32,7 @@
               </div>
             </div>
             <div class="mouse">
-              <img class="img" alt="Image" src="/Image%20(2).svg" />
+              <img class="img" alt="Image" src="/Image(2).svg" />
             </div>
             <div class="form">
               <div class="frame">
@@ -82,19 +82,19 @@
               <img src="/Ellipse-yellow.svg" alt="yellow">
             </div>
             <div class="ellipse-5">
-              <img src="/Ellipse%20pink(2).svg" alt="PINK-SMALL">
+              <img src="/Ellipse pink(2).svg" alt="PINK-SMALL">
             </div>
             <div class="group-4">
               <div class="text-wrapper-5">Sign up</div>
               <div class="text-wrapper-6">Enter your detail below</div>
             </div>
             <div class="ellipse-6">
-              <img src="/Ellipse%20(6).svg" alt="white">
+              <img src="/Ellipse(6).svg" alt="white">
             </div>
             <div class="cloud">
               <img class="mask-group" alt="Mask group" src="/Cloud.svg" />
             </div>
-            <img class="restorage-logo" alt="Restorage logo" src="/logo-brand.svg" />
+            <img class="restorage-logo" alt="Restoragelogo" src="/logo-brand.svg" />
             <img class="group-5" alt="Group" src="/file_full.svg" />
             <img class="group-6" alt="Group" src="/file.svg" />
           </div>
