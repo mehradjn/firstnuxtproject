@@ -16,7 +16,7 @@
 
               <div class="wrapper-head">
                 <div class="svg-holder">
-                  <img src="/Restorage-big-Logo.svg">
+                  <img src="/Restorage-big-Logo.svg" alt="restorage">
                 </div>
 
                 <div class="header-content">
@@ -86,25 +86,25 @@
         <div class="dark-theme item--circle-right"></div>
         <div class="dark-theme explanation--theme">Compelete Backup <br/>Soloution For All Devices</div>
         <div class="wordpress">
-         <img src="wordpress 1.svg" alt="wordpress">
+         <img src="/wordpress 1.svg" alt="wordpress">
         </div>
          <div class="apple-icon">
-           <img src="apple-logo.svg" alt="apple">
+           <img src="/apple-logo.svg" alt="apple">
          </div>
          <div class="android-icon">
-           <img src="android-logo.svg" alt="android">
+           <img src="/android-logo.svg" alt="android">
          </div>
          <div class="linux-icon">
-           <img src="Linux-icon.svg" alt="linux">
+           <img src="/Linux-icon.svg" alt="linux">
          </div>
          <div class="php-icon">
-           <img src="phpicon.svg" alt="php">
+           <img src="/phpicon.svg" alt="php">
          </div>
          <div class="coding-isometric">
-           <img src="coding_isometric.svg" alt="isometric">
+           <img src="/coding_isometric.svg" alt="isometric">
          </div>
          <div class="cloud">
-           <img src="cloud.svg" alt="cloud">
+           <img src="/Cloud.svg" alt="cloud">
          </div>
          <div class="file-look--front">
            <svg xmlns="http://www.w3.org/2000/svg" width="415" height="288" viewBox="0 0 415 288" fill="none">
@@ -135,7 +135,7 @@
       <div class="light-theme">
 
        <div class="light-theme item--calender">
-         <img src="calender.svg" alt="calender">
+         <img src="/calender.svg" alt="calender">
        </div>
         <div class="light-theme note--bold">
             <span>All systems are a go</span>
@@ -150,7 +150,6 @@
           <div class="group">
             <div class="ellipse" />
             <div class="overlap-group">
-              <img class="line" alt="Line" src="line-183.svg" />
               <div class="div" />
               <div class="ellipse-2" />
               <div class="ellipse-3" />
@@ -158,7 +157,7 @@
           </div>
         </div>
         <div class="light-theme clock--style">
-          <img src="clock.svg" alt="clock">
+          <img src="/clock.svg" alt="clock">
         </div>
 
         <div class="light-theme website--backup">
@@ -208,14 +207,14 @@
    <div class="price-list--son">
         <div style="width: 100%; height: 100%; justify-content: center; align-items: flex-start; gap: 40px; display: inline-flex">
           <div style="width: 320px; height: 520px; position: relative">
-            <div style="width: 320px; height: 520px; left: 0px; top: 0px; position: absolute; background: #5956E9; border-radius: 32px"></div>
+            <div style="width: 320px; height: 520px; left: 0; top: 0; position: absolute; background: #5956E9; border-radius: 32px"></div>
             <div style="width: 240px; height: 72px; left: 40px; top: 407px; position: absolute">
-              <div style="width: 240px; height: 72px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 20px"></div>
+              <div style="width: 240px; height: 72px; left: 0; top: 0; position: absolute; background: white; border-radius: 20px"></div>
               <div style="width: 192.49px; left: 22.40px; top: 30px; position: absolute; text-align: center; color: #2522BA; font-size: 16px; font-family: Poppins; font-weight: 500; line-height: 12.80px; word-wrap: break-word">Try free for 30 days</div>
             </div>
             <div style="width: 106px; height: 24px; left: 40px; top: 40px; position: absolute">
               <div style="left: 38px; top: 2px; position: absolute; color: white; font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Individual</div>
-              <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="width: 24px; height: 24px; left: 0; top: 0; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
                 <div style="width: 24px; height: 24px"></div>
                 <div style="width: 20px; height: 20px; opacity: 0.50; background: white; border-radius: 10px"></div>
                 <div style="width: 12px; height: 5px; background: #FFDC60"></div>
@@ -227,11 +226,10 @@
               <div style="opacity: 0.50; color: white; font-size: 14px; font-family: DM Sans; font-weight: 500; line-height: 13.91px; word-wrap: break-word">/month</div>
             </div>
             <div style="width: 240px; height: 168px; left: 40px; top: 197px; position: absolute">
-              <div style="width: 240px; height: 24px; left: 0px; top: 0px; position: absolute">
-                <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="width: 240px; height: 24px; left: 0; top: 0; position: absolute">
+                <div style="width: 23.61px; height: 24px; left: 0; top: 0; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
                   <div style="width: 23.61px; height: 24px"></div>
                   <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                  <img style="width: 15.74px; height: 11.88px" src="https://via.placeholder.com/16x12" />
                 </div>
                 <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">1 user</div>
               </div>
@@ -239,7 +237,6 @@
                 <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
                   <div style="width: 23.61px; height: 24px"></div>
                   <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                  <img style="width: 15.74px; height: 11.88px" src="https://via.placeholder.com/16x12" />
                 </div>
                 <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">2 TB of secure storage</div>
               </div>
@@ -247,7 +244,6 @@
                 <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
                   <div style="width: 23.61px; height: 24px"></div>
                   <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                  <img style="width: 15.74px; height: 11.88px" src="https://via.placeholder.com/16x12" />
                 </div>
                 <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">Premium productivity features and simple, secure file sharing</div>
               </div>
@@ -284,7 +280,6 @@
                 <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
                   <div style="width: 23.61px; height: 24px"></div>
                   <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                  <img style="width: 15.74px; height: 11.88px" src="https://via.placeholder.com/16x12" />
                 </div>
                 <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">3+ user</div>
               </div>
@@ -292,7 +287,6 @@
                 <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
                   <div style="width: 23.61px; height: 24px"></div>
                   <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                  <img style="width: 15.74px; height: 11.88px" src="https://via.placeholder.com/16x12" />
                 </div>
                 <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">5 TB of secure storage</div>
               </div>
@@ -300,7 +294,6 @@
                 <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
                   <div style="width: 23.61px; height: 24px"></div>
                   <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                  <img style="width: 15.74px; height: 11.88px" src="https://via.placeholder.com/16x12" />
                 </div>
                 <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">Premium productivity features and simple, secure file sharing</div>
               </div>
@@ -330,7 +323,6 @@
                 <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
                   <div style="width: 23.61px; height: 24px"></div>
                   <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                  <img style="width: 15.74px; height: 11.88px" src="https://via.placeholder.com/16x12" />
                 </div>
                 <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">10+ user</div>
               </div>
@@ -338,7 +330,6 @@
                 <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
                   <div style="width: 23.61px; height: 24px"></div>
                   <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                  <img style="width: 15.74px; height: 11.88px" src="https://via.placeholder.com/16x12" />
                 </div>
                 <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">10 TB of secure storage</div>
               </div>
@@ -346,7 +337,6 @@
                 <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
                   <div style="width: 23.61px; height: 24px"></div>
                   <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                  <img style="width: 15.74px; height: 11.88px" src="https://via.placeholder.com/16x12" />
                 </div>
                 <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">Premium productivity features and simple, secure file sharing</div>
               </div>
@@ -385,17 +375,9 @@
             <div style="text-align: center; color: white; font-size: 16px; font-family: Poppins; font-weight: 500; word-wrap: break-word">View More Projects</div>
           </div>
         </div>
-        <div class="showcase-phone">
-          <img style="width: 375px; height: 812px; left: 0.25px; top: 0.43px; position: absolute; transform: rotate(-30deg); transform-origin: 0 0; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 40px" src="https://via.placeholder.com/375x812" />
-          <img style="width: 375px; height: 812px; left: 394.25px; top: -227.57px; position: absolute; transform: rotate(-30deg); transform-origin: 0 0; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 40px" src="https://via.placeholder.com/375x812" />
-          <img style="width: 375px; height: 812px; left: 1182.25px; top: -682.57px; position: absolute; transform: rotate(-30deg); transform-origin: 0 0; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 40px" src="https://via.placeholder.com/375x812" />
-          <img style="width: 375px; height: 812px; left: 1628.25px; top: 90.43px; position: absolute; transform: rotate(-30deg); transform-origin: 0 0; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 40px" src="https://via.placeholder.com/375x812" />
-          <img style="width: 375px; height: 812px; left: 1234.25px; top: 317.43px; position: absolute; transform: rotate(-30deg); transform-origin: 0 0; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 40px" src="https://via.placeholder.com/375x812" />
-          <img style="width: 375px; height: 812px; left: 446.25px; top: 772.43px; position: absolute; transform: rotate(-30deg); transform-origin: 0 0; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 40px" src="https://via.placeholder.com/375x812" />
-          <img style="width: 375px; height: 812px; left: 788.25px; top: -454.57px; position: absolute; transform: rotate(-30deg); transform-origin: 0 0; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 40px" src="https://via.placeholder.com/375x812" />
-          <img style="width: 375px; height: 812px; left: 840.25px; top: 545.43px; position: absolute; transform: rotate(-30deg); transform-origin: 0 0; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 40px" src="https://via.placeholder.com/375x812" />
-          <img style="width: 375px; height: 812px; left: 840.25px; top: 545.43px; position: absolute; transform: rotate(-30deg); transform-origin: 0 0; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 40px" src="3 40363.svg">
-        </div>
+          <div class="box">
+            <img class="group" alt="Group" src="/Group 240.svg" />
+          </div>
       </div>
     </section>
 
@@ -413,14 +395,6 @@
         <div class="box">
           <div class="nav">
             <div class="overlap">
-              <img class="element-facebook" alt="Element facebook" src="001-facebook.png" />
-              <img class="element-twitter" alt="Element twitter" src="003-twitter.png" />
-              <div class="element-instagram">
-                <div class="overlap-group">
-                  <img class="shape" alt="Shape" src="image.svg" />
-                  <div class="oval" />
-                </div>
-              </div>
               <div class="newsletter">
                 <div class="subscribe-to-our-new">Subscribe to our newsletter</div>
                 <div class="text-box">
@@ -453,11 +427,6 @@
                 <div class="text-wrapper-5">Benefits</div>
                 <div class="text-wrapper-6">Team</div>
                 <div class="text-wrapper-7">Careers</div>
-              </div>
-              <div class="back-to-top">
-                <div class="ic-keyboard-arrow-wrapper">
-                  <img class="ic-keyboard-arrow" alt="Ic keyboard arrow" src="ic-keyboard-arrow-right-48px.png" />
-                </div>
               </div>
             </div>
           </div>
@@ -821,11 +790,11 @@
 }
 
 .box .group {
-  height: 631px;
-  left: 0;
+  height: 1660px;
+  left: 285px;
   position: absolute;
-  top: 0;
-  width: 1298px;
+  top: 135px;
+  width: 1438px;
 }
 
 .box .ellipse {
@@ -1182,12 +1151,9 @@ left: 425px;
   height: fit-content;
   position: absolute;
 }
-.showcase-phone{
-  left: -108px;
-  top: 1042px;
-  width: 100%;
-  height: 100%;
-  position: absolute;
+.box {
+  height: 2346px;
+  width: 2359px;
 }
 
 
@@ -1490,32 +1456,6 @@ left: 425px;
   position: absolute;
   top: 61px;
   width: 65px;
-}
-
-.box .back-to-top {
-  height: 50px;
-  left: 1256px;
-  position: absolute;
-  top: 61px;
-  width: 50px;
-}
-
-.box .ic-keyboard-arrow-wrapper {
-  background-color: #ffffff;
-  border-radius: 25px;
-  height: 52px;
-  left: -1px;
-  position: relative;
-  top: -1px;
-  width: 52px;
-}
-
-.box .ic-keyboard-arrow {
-  height: 20px;
-  left: 16px;
-  position: absolute;
-  top: 16px;
-  width: 20px;
 }
 
 
