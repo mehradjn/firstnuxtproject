@@ -33,121 +33,104 @@
            <img class="restorage-logo" alt="Restorage logo" src="/Restorage-Logo(2).svg"/>
         </div>
       </div>
-  <!--new scroll started-->
-        <section id="darktheme">
 
-           <div class="dark-theme">
-
-             <div class="dark-theme item--line"></div>
-            <div class="dark-theme item--circle"></div>
-            <div class="dark-theme item--circle-little"></div>
-            <div class="dark-theme item--circle-right"></div>
-            <div class="dark-theme explanation--theme">Compelete Backup <br/>Soloution For All Devices</div>
-            <div class="wordpress">
-             <img src="/wordpress1.svg" alt="wordpress">
-            </div>
-             <div class="apple-icon">
-               <img src="/apple-logo.svg" alt="apple">
-             </div>
-             <div class="android-icon">
-               <img src="/android-logo.svg" alt="android">
-             </div>
-             <div class="linux-icon">
-               <img src="/Linux-icon.svg" alt="linux">
-             </div>
-             <div class="php-icon">
-               <img src="/phpicon.svg" alt="php">
-             </div>
-             <div class="coding-isometric">
-               <img src="/coding_isometric.svg" alt="isometric">
-             </div>
-             <div class="cloud">
-               <img src="/Cloud.svg" alt="cloud">
-             </div>
-             <div class="file-look--front">
-               <svg xmlns="http://www.w3.org/2000/svg" width="415" height="288" viewBox="0 0 415 288" fill="none">
-                 <path d="M0.805161 260.847C0.805161 257.722 0.805161 254.597 0.805161 251.472C0.805161 177.706 0.805161 103.941 0.805161 30.1755C0.805161 29.291 0.805161 28.4065 0.805161 27.522C0.805161 20.0924 3.81238 13.3704 8.76546 8.41733C13.6301 3.5527 20.4405 0.457031 27.8702 0.457031C29.3443 0.457031 30.8184 0.457031 32.2925 0.457031C139.55 0.457031 246.778 0.457031 353.977 0.457031C356.63 0.457031 359.254 0.457031 361.849 0.457031C372.374 0.457031 381.484 6.47147 385.995 15.3162C387.941 18.9426 389.002 23.1881 389.002 27.522C389.002 31.8265 389.002 36.131 389.002 40.4354C389.002 70.3897 389.002 100.344 389.002 130.298C389.002 173.815 389.002 217.331 389.002 260.847C389.002 264.916 389.887 268.719 391.567 272.257C395.724 281.19 404.658 287.47 415.006 287.912C406.338 287.912 397.67 287.912 389.002 287.912C383.872 287.912 378.742 287.912 373.612 287.912C260.34 287.912 147.039 287.912 33.7077 287.912C31.7619 287.912 29.816 287.912 27.8702 287.912C20.4405 287.912 13.6301 284.905 8.76546 279.952C3.81238 275.087 0.805161 268.277 0.805161 260.847Z" fill="url(#paint0_linear_7_955)"/>
-                 <defs>
-                   <linearGradient id="paint0_linear_7_955" x1="307.542" y1="-3.08088" x2="313.556" y2="284.64" gradientUnits="userSpaceOnUse">
-                     <stop stop-color="#A5CDFD"/>
-                     <stop offset="1" stop-color="#C5AEFD"/>
-                   </linearGradient>
-                 </defs>
-               </svg>
-             </div>
-             <div class="file-look--back">
-               <svg xmlns="http://www.w3.org/2000/svg" width="389" height="356" viewBox="0 0 389 356" fill="none">
-                 <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M200.439 355.913C194.955 355.913 189.442 355.913 183.899 355.913C135.784 355.913 87.6681 355.913 39.5525 355.913C35.6018 355.913 31.6217 355.913 27.6121 355.913C20.1825 355.913 13.372 352.905 8.50737 347.952C3.5543 343.088 0.547073 336.277 0.547073 328.848C0.547073 322.656 0.547073 316.435 0.547073 310.185C0.547073 306.883 0.547073 303.581 0.547073 300.279C0.547073 241.962 0.547073 183.646 0.547073 125.329C0.547073 117.31 0.547073 109.261 0.547073 101.183C0.547073 95.0508 0.547073 88.8889 0.547073 82.6976C0.547073 77.3907 0.547073 72.0543 0.547073 66.6885C0.547073 64.212 0.900843 61.8239 1.51998 59.5242C1.69687 58.9346 1.8738 58.3449 2.0507 57.7553C3.46586 53.8636 5.67704 50.4141 8.50737 47.5838C11.0724 45.0188 14.0796 42.9845 17.4406 41.5694C20.6247 40.3311 24.0742 39.6235 27.6121 39.6235C31.6217 39.6235 35.6018 39.6235 39.5525 39.6235C87.4322 39.6235 135.282 39.6235 183.103 39.6235C183.103 35.4959 183.103 31.3684 183.103 27.2408C183.103 26.5922 183.133 25.9436 183.192 25.295C183.722 18.5729 186.641 12.5585 191.064 8.13608C195.84 3.3599 202.473 0.352677 209.726 0.175781C210.551 0.175781 211.377 0.175781 212.203 0.175781C227.416 0.175781 242.629 0.175781 257.842 0.175781C274.234 0.175781 290.656 0.175781 307.107 0.175781C307.166 0.175781 307.195 0.175781 307.195 0.175781C314.625 0.175781 321.347 3.27145 326.212 8.13608C327.155 9.02056 328.01 9.96401 328.777 10.9664C337.887 10.6126 346.82 11.8509 353.807 18.9267C364.333 22.6415 368.047 31.1325 368.932 40.5964C373.443 41.8347 377.511 44.3112 380.784 47.5838C384.057 50.8564 386.533 54.9249 387.771 59.5242C388.39 61.8239 388.744 64.212 388.744 66.6885C388.744 68.1037 388.744 69.5188 388.744 70.934C388.744 74.8847 388.744 78.8059 388.744 82.6976C388.744 87.8275 388.744 92.9575 388.744 98.0875C388.744 165.485 388.744 232.882 388.744 300.279C388.744 301.989 388.744 303.67 388.744 305.321C388.744 313.163 388.744 321.005 388.744 328.848C388.744 336.277 385.649 343.088 380.784 347.952C376.008 352.729 369.463 355.736 362.298 355.913C362.062 355.913 361.856 355.913 361.679 355.913C360.087 355.913 358.525 355.913 356.991 355.913C349.385 355.913 341.778 355.913 334.172 355.913C330.398 355.913 326.595 355.913 322.762 355.913C317.514 355.913 312.266 355.913 307.019 355.913C297.171 355.913 287.295 355.913 277.389 355.913C268.956 355.913 260.495 355.913 252.004 355.913C244.28 355.913 236.585 355.913 228.919 355.913C219.426 355.913 209.932 355.913 200.439 355.913ZM231.13 308.947C231.13 313.016 231.13 317.173 231.13 321.418C231.219 316.553 231.219 312.22 231.13 308.947ZM231.13 321.418C231.042 333.359 230.6 348.218 228.919 355.913C231.307 344.768 231.219 333.005 231.13 321.418ZM330.811 14.0621C332.668 17.4231 333.818 21.2264 334.172 25.295C334.172 25.9436 334.172 26.5922 334.172 27.2408C334.172 31.3684 334.172 35.4959 334.172 39.6235C342.899 39.6235 351.596 39.6235 360.264 39.6235C359.38 32.4592 359.026 24.4105 353.807 18.9267C346.466 16.3617 338.417 15.2119 330.811 14.0621Z" fill="url(#paint0_linear_7_521)"/>
-                 <defs>
-                   <linearGradient id="paint0_linear_7_521" x1="17.4406" y1="41.5693" x2="388.744" y2="305.321" gradientUnits="userSpaceOnUse">
-                     <stop stop-color="#D4D4D4"/>
-                     <stop offset="1" stop-color="#3D3D3D"/>
-                   </linearGradient>
-                 </defs>
-               </svg>
-             </div>
-           </div>
-        </section>
-    <!--    new scroll-->
-        <section id="lighttheme">
-          <div class="light-theme">
-
-           <div class="light-theme item--calender">
-             <img src="/calender.svg" alt="calender">
-           </div>
-            <div class="light-theme note--bold">
-                <span>All systems are a go</span>
-              <span>.</span>
-            </div>
-            <div class="light-theme note--smaller">
-              <span>Find out where we are on the path to achieving the ultimate design tool.</span>
-            </div>
-            <div class="light-theme circle-yellow"></div>
-            <div class="light-theme circle-pink"></div>
-            <div class="box">
-              <div class="group">
-                <div class="ellipse" />
-                <div class="overlap-group">
-                  <div class="div" />
+  <!--second part-->
+      <div class="DARK-FEATURES">
+        <div class="overlap">
+          <div class="background">
+            <div class="overlap-group">
+              <div class="dark-background" />
+              <div class="background-element">
+                <div class="div">
+                  <div class="ellipse" />
+                  <img class="line" alt="Line" src="/Line.svg" />
                   <div class="ellipse-2" />
                   <div class="ellipse-3" />
                 </div>
+                <div class="ellipse-4" />
               </div>
             </div>
-            <div class="light-theme clock--style">
-              <img src="/clock.svg" alt="clock">
-            </div>
-
-            <div class="light-theme website--backup">
-              Website Backup
-            </div>
-            <div class="light-theme contact--backup">
-            Phone Contact Backup
-            </div>
-            <div class="light-theme my--project">
-              MyProjectx
-            </div>
-
-            <div class="light-theme dark--place"></div>
-            <div class="light-theme explanation-dark--theme">
-              Get Free <br> Space Right <br>Now !
-            </div>
-            <div class="explanation-dark--opacity">
-              With Collab Smart Prototype you create your <br>interactions and animations once and store as <br> presets in the cloud for future use
-              <br>.  Use the Collab App to test in real-time.
-            </div>
-            <div class="submit--dark-place">
-              <form>
-            <label for="submit"></label>
-            <input type="submit" value="See Sample Prototype">
-              </form>
-            </div>
-            <div class="light-theme circle-pink--darktheme"></div>
-            <div class= "circle-pink--big"></div>
-            <div class="light-theme line--dark"></div>
-
           </div>
-        </section>
+          <img class="phpicon" alt="Phpicon" src="/phpicon.svg" />
+          <div class="typography">
+            <p class="compelete-backup">
+              Compelete Backup <br />
+              Soloution For All Devices
+            </p>
+            <p class="p">Simultaneously design, code and collaborate with your team all from one place.</p>
+          </div>
+          <img class="clouds-file" alt="clouds" src="/clouds-file.svg" />
+          <img class="wordpress" alt="Wordpress" src="/wordpress1.svg" />
+          <img class="android-logo" alt="Android logo" src="/android-logo.svg" />
+          <img class="apple-logo" alt="Apple logo" src="/apple-logo.svg" />
+          <img class="linux-icon" alt="Linux icon" src="/Linux-icon.svg" />
+          <img class="coding-isometric" alt="Coding isometric" src="/coding_isometric.svg" />
+        </div>
+        <img class="cloud" src="/Cloud.svg" alt="cloud">
+      </div>
+
+    <!--third scroll-->
+      <div class="TIME-LINE">
+        <div class="overlap-group">
+          <div class="group">
+            <div class="div">
+              <div class="group-2">
+                <div class="display">Earlier</div>
+                <div class="text-wrapper">Later</div>
+                <div class="display-wrapper">
+                  <div class="display-2">12:30 AM</div>
+                </div>
+                <div class="div-wrapper">
+                  <div class="display-2">16:00</div>
+                </div>
+                <div class="group-3">
+                  <div class="display-2">08:10</div>
+                </div>
+                <div class="group-4">
+                  <div class="display-2">00:00</div>
+                </div>
+              </div>
+              <div class="lines">
+                <span class="line-1"></span>
+                <span class="line-2"></span>
+                <span class="line-3"></span>
+                <span class="line-4"></span>
+
+              </div>
+              <div class="overlap-group-wrapper">
+                <div class="overlap-group-2">
+                  <div class="rectangle" />
+                  <div class="rectangle-2" />
+                  <div class="text-wrapper-2">Website Backup</div>
+                </div>
+              </div>
+              <div class="overlap-wrapper">
+                <div class="overlap-2">
+                  <div class="rectangle-3" />
+                  <div class="rectangle-4" />
+                  <div class="text-wrapper-3">Phone Contact Backup</div>
+                </div>
+              </div>
+              <div class="group-5">
+                <div class="overlap-group-2">
+                  <div class="rectangle" />
+                  <div class="rectangle-5" />
+                  <div class="text-wrapper-4">MyProjectx</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="group-6">
+            <div class="ellipse" />
+            <div class="overlap-3">
+              <span class="line-5"></span>
+              <div class="ellipse-2" />
+              <div class="ellipse-3" />
+              <div class="ellipse-4" />
+            </div>
+          </div>
+        </div>
+      </div>
     <!--    new scroll started -->
         <section id="find-the-way">
         <div class="find-the-right">
@@ -411,13 +394,11 @@
   width: 100%;
   overflow: hidden;
 }
-
 .HERO-HEADER .overlap {
   left: -199px;
   position: relative;
   top: -200px;
 }
-
 .HERO-HEADER .hero-header-bg {
   z-index: -1;
   left: 814px;
@@ -432,7 +413,6 @@ position: relative;
 top: 229px;
 left: 909px;
 }
-
 .HERO-HEADER .div {
   background-color: #5956e8;
   border-radius: 64px;
@@ -442,7 +422,6 @@ left: 909px;
   top: 429px;
   width: 128px;
 }
-
 .HERO-HEADER .circle-6 {
   height: 128px;
   left: 1490px;
@@ -453,7 +432,6 @@ left: 909px;
   background-color: #FFDC60;
   z-index: -2;
 }
-
 .HERO-HEADER .circle-3 {
   background-color: #FAB8C4;
   border-radius: 90px;
@@ -462,8 +440,8 @@ left: 909px;
   position: absolute;
   top: 962px;
   width: 180px;
+  z-index: 1;
 }
-
 .HERO-HEADER .circle-4 {
   background-color: #5956e8;
   border-radius: 610px;
@@ -474,7 +452,6 @@ left: 909px;
   width: 1220px;
   z-index: -2;
 }
-
 .HERO-HEADER .circle-5 {
   background-color: #FAB8C4;
   border-radius: 24px;
@@ -484,7 +461,6 @@ left: 909px;
   top: 683px;
   width: 48px;
 }
-
 .HERO-HEADER .circle-2 {
   background-color: #FFDC60;
   border-radius: 200px;
@@ -494,7 +470,6 @@ left: 909px;
   top: 0;
   width: 400px;
 }
-
 .HERO-HEADER .active-line {
   background-color: #5956E9;
   border-radius: 4px;
@@ -504,7 +479,6 @@ left: 909px;
   top: 54px;
   width: 69px;
 }
-
 .HERO-HEADER .text-wrapper-2 {
   left: 0;
   position: absolute;
@@ -517,7 +491,6 @@ left: 909px;
   line-height: normal;
   letter-spacing: -0.64px;
 }
-
 .HERO-HEADER .text-wrapper-3 {
   left: 121px;
   position: absolute;
@@ -530,7 +503,6 @@ left: 909px;
   line-height: normal;
   letter-spacing: -0.64px;
 }
-
 .HERO-HEADER .text-wrapper-4 {
   left: 227px;
   position: absolute;
@@ -543,7 +515,6 @@ left: 909px;
   line-height: normal;
   letter-spacing: -0.64px;
 }
-
 .HERO-HEADER .explore {
   height: 24px;
   left: 323px;
@@ -551,7 +522,6 @@ left: 909px;
   top: 24px;
   width: 85px;
 }
-
 .HERO-HEADER .text-wrapper-5 {
   left: 0;
   position: absolute;
@@ -564,7 +534,6 @@ left: 909px;
   line-height: normal;
   letter-spacing: -0.64px;
 }
-
 .HERO-HEADER .arrow-stroke {
   height: 10px;
   left: 69px;
@@ -572,7 +541,6 @@ left: 909px;
   top: 9px;
   width: 14px;
 }
-
 .HERO-HEADER .text-wrapper-6 {
   left: 47px;
   position: absolute;
@@ -587,8 +555,6 @@ left: 909px;
   line-height: normal;
   letter-spacing: -0.64px;
 }
-
-
 .HERO-HEADER .hero-header-content {
   height: 391px;
   left: 526px;
@@ -604,7 +570,6 @@ left: 909px;
   top: 62px;
   width: 98px;
 }
-
 .HERO-HEADER .display {
   font-size: 36px;
   font-weight: 700;
@@ -618,7 +583,6 @@ left: 909px;
   font-family: DM Sans;
   font-style: normal;
 }
-
 .HERO-HEADER .p {
   left: -20px;
   position: absolute;
@@ -631,8 +595,6 @@ left: 909px;
   font-weight: 400;
   line-height: normal;
 }
-
-
 .HERO-HEADER .restorage-logo {
   height: 127px;
   left: 512px;
@@ -640,7 +602,6 @@ left: 909px;
   top: 438px;
   width: 583px;
 }
-
 .slogan-brand h2{
   padding-top: 172px;
 }
@@ -662,179 +623,541 @@ left: 909px;
 
 
 
-.dark-theme{
-  top: 850px;
-  z-index: -2;
-  position: absolute;
+.DARK-FEATURES {
+  height: 953px;
   width: 100%;
-  height: 1150px;
-  background: #27272E;
-}
-.item--line{
-  position: absolute;
-  top: 836px;
-  left: 10px;
-  width: 31%;
-  height: 0%;
-  transform: rotate(-45deg);
-  transform-origin: 0px 0px;
-  border: 1px solid rgb(66, 66, 74);
-}
-.item--circle{
-  left: 175px;
-  z-index: -3;
-  top: 106px;
-  width: 520px;
-  height: 520px;
-  border-radius: 50%;
-  border: 1px solid rgb(66, 66, 74);
+  top: -167px;
   position: relative;
 }
-.item--circle-little{
-  left: 78px;
-  top: 682px;
+.DARK-FEATURES .cloud{
   position: absolute;
-  z-index: -4;
-  width: 90px;
-  height: 90px;
-  opacity: 0.5;
-  background: rgb(82, 82, 96);
-  border-radius: 50%;
-}
-.item--circle-right{
-  z-index: -4;
-  right: 490px;
-  top: 110px;
-  position: absolute;
-  width: 268px;
-  height: 268px;
-  background: #525260;
-  border-radius: 50%;
-}
-.explanation--theme{
-  left: 66px;
-  top: 243px;
-  position: absolute;
-  width: 39%;
-  color: white;
-  font-size: 70px;
-  font-family: DM Sans;
-  font-weight: 500;
-  line-height: 70px;
-  word-wrap: break-word;
-  height: 0%;
-  z-index: auto;
-}
-.wordpress{
-  position: absolute;
-  top: 580px;
-  left: 50px;
-}
-.apple-icon{
-  position: absolute;
-  top: 580px;
-  left: 266px;
-}
-.android-icon{
-  position: absolute;
-  top: 580px;
-  left: 477px;
-}
-.linux-icon{
-  position: absolute;
-  top: 780px;
-  left: 50px;
-}
-.php-icon{
-  position: absolute;
-  top: 780px;
-  left: 247px;
-}
-.coding-isometric{
-  position: absolute;
-  top: 780px;
-  left: 470px;
-}
-.cloud{
-  position: absolute;
-  bottom: 20px;
+  bottom: 10px;
   right: 800px;
 }
-.file-look--front{
-  position: absolute;
-  top: 467px;
-  right: 450px;
-}
-.file-look--back{
-  position: absolute;
-  top: 403px;
-  right: 433px;
-}
-
-
-
-
-.light-theme{
-  top: 715px;
-  z-index: -3;
+.DARK-FEATURES .overlap {
+  height: 952px;
+  left: 0;
   position: relative;
   width: 100%;
-  height: 412px;
-  background: #fff;
 }
-.note--bold{
-  height: 170px;
-  width: 17%;
-  top: 432px;
+.DARK-FEATURES .rectangle {
+  box-shadow: inset -1px 0 0 #ffffff1a;
+  height: 420px;
   position: absolute;
-  left: 371px;
-  z-index: 2;
-  background: #fff;
+  top: 604px;
+  width: 720px;
 }
-.note--bold span{
+.DARK-FEATURES .background {
+  height: 952px;
   position: absolute;
-  width: 400px;
-  color: #292930;
-  font-size: 80px;
-  font-family: DM Sans;
-  font-weight: 500;
-  line-height: 80px;
-  word-wrap: break-word;
+  width: 100%;
 }
-.note--smaller{
-  height: 48px;
-  z-index: 1;
-  top: 632px;
-  left: 369px;
-  position: absolute;
-  width: 19%;
-  color: #999FAE;
-  font-size: 24px;
-  font-family: Poppins;
-  font-weight: 400;
-  line-height: 24px;
-  word-wrap: break-word;
+.DARK-FEATURES .overlap-group {
+  height: 952px;
+  position: relative;
 }
-.circle-yellow{
-  top: 418px;
-  left: 707px;
+.DARK-FEATURES .dark-background {
+  background-color: #27272e;
+  height: 952px;
   position: absolute;
-  width: 120px;
-  height: 120px;
-  background: #FFDC60;
-  border-radius: 50%;
-  z-index: 1;
+  top: 0;
+  width: 100%;
 }
-.circle-pink{
-  left: 358px;
-  top: 850px;
+.DARK-FEATURES .background-element {
+  height: 721px;
+  left: 0;
   position: absolute;
-  width: 90px;
+  top: 0;
+  width: 1241px;
+}
+.DARK-FEATURES .div {
+  height: 721px;
+  left: 222px;
+  position: absolute;
+  top: 0;
+  width: 720px;
+}
+.DARK-FEATURES .ellipse {
+  background-color: #525260;
+  border-radius: 45px;
   height: 90px;
-  opacity: 0.50;
-  background: #FAB8C4;
-  border-radius: 50%;
+  left: 94px;
+  opacity: 0.5;
+  position: absolute;
+  top: 533px;
+  width: 90px;
 }
+.DARK-FEATURES .line {
+  height: 462px;
+  left: -85px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  position: absolute;
+  top: 342px;
+  width: 460px;
+}
+.DARK-FEATURES .ellipse-2 {
+  border: 1px solid;
+  border-color: #42424A;
+  border-radius: 305px;
+  height: 610px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 610px;
+}
+.DARK-FEATURES .ellipse-3 {
+  background-color: #525260;
+  border-radius: 20px;
+  height: 40px;
+  left: 340px;
+  opacity: 0.2;
+  position: absolute;
+  top: 78px;
+  width: 40px;
+}
+.DARK-FEATURES .ellipse-4 {
+  background-color: #525260;
+  border-radius: 134px;
+  height: 268px;
+  left: 1594px;
+  position: absolute;
+  top: 104px;
+  width: 268px;
+}
+.DARK-FEATURES .phpicon {
+  height: 144px;
+  left: 454px;
+  object-fit: cover;
+  position: absolute;
+  top: 631px;
+  width: 180px;
+}
+.DARK-FEATURES .typography {
+  height: 262px;
+  left: 0;
+  position: absolute;
+  top: 98px;
+  width: 1046px;
+}
+.DARK-FEATURES .compelete-backup {
+  left: 128px;
+  letter-spacing: -1.75px;
+  line-height: 70px;
+  position: absolute;
+  top: 0;
+  width: 772px;
+  color: #FFF;
+  font-family: DM Sans;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 500;
+}
+.DARK-FEATURES .p {
+  left: 131px;
+  opacity: 0.5;
+  position: absolute;
+  top: 208px;
+  width: 502px;
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.DARK-FEATURES .clouds-file {
+  height: 498px;
+  right: 10px;
+  position: absolute;
+  top: 222px;
+  width: 693px;
+}
+.DARK-FEATURES .wordpress {
+  height: 150px;
+  left: 260px;
+  object-fit: cover;
+  position: absolute;
+  top: 405px;
+  width: 150px;
+}
+.DARK-FEATURES .android-logo {
+  height: 167px;
+  left: 654px;
+  object-fit: cover;
+  position: absolute;
+  top: 399px;
+  width: 167px;
+}
+.DARK-FEATURES .apple-logo {
+  height: 150px;
+  left: 469px;
+  object-fit: cover;
+  position: absolute;
+  top: 405px;
+  width: 150px;
+}
+.DARK-FEATURES .linux-icon {
+  height: 150px;
+  left: 254px;
+  object-fit: cover;
+  position: absolute;
+  top: 623px;
+  width: 150px;
+}
+.DARK-FEATURES .coding-isometric {
+  height: 183px;
+  left: 646px;
+  object-fit: cover;
+  position: absolute;
+  top: 607px;
+  width: 183px;
+}
+
+
+
+.TIME-LINE {
+  height: 631px;
+  position: relative;
+  top: -169px;
+  width: 100%;
+}
+
+.TIME-LINE .overlap-group {
+  height: 631px;
+  position: relative;
+}
+
+.TIME-LINE .group {
+  height: 399px;
+  position: absolute;
+  width: 929px;
+  left: 600px;
+  top: 463px;
+  width: 929px;
+}
+
+.TIME-LINE .div {
+  height: 399px;
+  position: relative;
+  width: 933px;
+}
+
+.TIME-LINE .group-2 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 933px;
+}
+
+.TIME-LINE .display {
+  color: #999fae;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.3px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.TIME-LINE .text-wrapper {
+  color: #999fae;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 900px;
+  letter-spacing: -0.3px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.TIME-LINE .display-wrapper {
+  height: 24px;
+  left: 158px;
+  position: absolute;
+  top: 14px;
+  width: 97px;
+}
+
+.TIME-LINE .display-2 {
+  color: #28282f;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.6px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.TIME-LINE .div-wrapper {
+  height: 24px;
+  left: 444px;
+  position: absolute;
+  top: 10px;
+  width: 58px;
+}
+
+.TIME-LINE .group-3 {
+  height: 24px;
+  left: 596px;
+  position: absolute;
+  top: 10px;
+  width: 58px;
+}
+
+.TIME-LINE .group-4 {
+  height: 24px;
+  left: 701px;
+  position: absolute;
+  top: 10px;
+  width: 65px;
+}
+
+.TIME-LINE .lines {
+  height: 365px;
+  left: 205px;
+  position: absolute;
+  top: 34px;
+  width: 528px;
+}
+
+.TIME-LINE .line-1 {
+  background: #E3E6E9;
+  width: 1px;
+  height: 353px;
+  position: absolute;
+}
+
+.TIME-LINE .line-2 {
+  background: #E3E6E9;
+  width: 1px;
+  height: 353px;
+  position: absolute;
+  left: 269px;
+}
+
+.TIME-LINE .line-3 {
+  background: #E3E6E9;
+  width: 1px;
+  height: 353px;
+  position: absolute;
+  left: 422px;
+}
+
+.TIME-LINE .line-4 {
+  background: #E3E6E9;
+  width: 1px;
+  height: 353px;
+  position: absolute;
+  left: 527px;
+}
+
+.TIME-LINE .overlap-group-wrapper {
+  height: 48px;
+  left: 205px;
+  position: absolute;
+  top: 118px;
+  width: 530px;
+}
+
+.TIME-LINE .overlap-group-2 {
+  height: 48px;
+  position: relative;
+  width: 528px;
+}
+
+.TIME-LINE .rectangle {
+  background-color: #886ba6;
+  height: 48px;
+  left: 0;
+  opacity: 0.1;
+  position: absolute;
+  top: 0;
+  width: 528px;
+}
+
+.TIME-LINE .rectangle-2 {
+  background-color: #886ba6;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 527px;
+}
+
+.TIME-LINE .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: -0.4px;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  width: 213px;
+}
+
+.TIME-LINE .overlap-wrapper {
+  height: 48px;
+  left: 385px;
+  position: absolute;
+  top: 198px;
+  width: 350px;
+}
+
+.TIME-LINE .overlap-2 {
+  height: 48px;
+  position: relative;
+  width: 348px;
+}
+
+.TIME-LINE .rectangle-3 {
+  background-color: #886ba6;
+  height: 48px;
+  left: 0;
+  opacity: 0.1;
+  position: absolute;
+  top: 0;
+  width: 348px;
+}
+
+.TIME-LINE .rectangle-4 {
+  background-color: #886ba6;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 242px;
+}
+
+.TIME-LINE .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: -0.4px;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.TIME-LINE .group-5 {
+  height: 48px;
+  left: 205px;
+  position: absolute;
+  top: 278px;
+  width: 530px;
+}
+
+.TIME-LINE .rectangle-5 {
+  background-color: #886ba6;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 269px;
+}
+
+.TIME-LINE .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: -0.4px;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.TIME-LINE .group-6 {
+  height: 631px;
+  left: 574px;
+  position: absolute;
+  top: 400px;
+  width: 1298px;
+}
+
+.TIME-LINE .ellipse {
+  background-color: #fab8c4;
+  border-radius: 45px;
+  height: 90px;
+  left: -190px;
+  opacity: 0.5;
+  position: absolute;
+  top: 243px;
+  width: 90px;
+}
+
+.TIME-LINE .overlap-3 {
+  height: 631px;
+  left: 655px;
+  position: absolute;
+  top: 0;
+  width: 643px;
+}
+
+.TIME-LINE .line-5 {
+  left: 30px;
+  top: 426px;
+  transform: skewY(-45deg);
+  position: absolute;
+  width: 346.004px;
+  height: 3px;
+  background: #E3E6E9;
+}
+
+.TIME-LINE .ellipse-2 {
+  background-color: #5956e8;
+  border-radius: 20px;
+  height: 40px;
+  left: 363px;
+  position: absolute;
+  top: 228px;
+  width: 40px;
+}
+
+.TIME-LINE .ellipse-3 {
+  background-color: #ffdc60;
+  border-radius: 45px;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 541px;
+  width: 90px;
+}
+
+.TIME-LINE .ellipse-4 {
+  border: 1px solid;
+  border-color: #e3e6e9;
+  border-radius: 247.5px/248px;
+  height: 496px;
+  left: 148px;
+  position: absolute;
+  top: 0;
+  width: 495px;
+}
+
+
+
+
+
+
+
+
+
+
 .box {
   height: 631px;
   position: relative;
