@@ -72,6 +72,12 @@
     <!--third scroll-->
       <div class="TIME-LINE">
         <div class="overlap-group">
+          <img class="calender" src="/calender-clock.svg" alt="calender">
+          <div class="display-content">
+            <span class="circle-1"></span>
+            <p class="head-content">All systems <br> are a go.</p>
+            <p class="body-content">Find out where we are on the path to <br>achieving the ultimate design tool.</p>
+          </div>
           <div class="group">
             <div class="div">
               <div class="group-2">
@@ -131,169 +137,81 @@
           </div>
         </div>
       </div>
-    <!--    new scroll started -->
-        <section id="find-the-way">
-        <div class="find-the-right">
-         <div class="middle-circle--scroll"></div>
-          <div class="middle-explain">
-            <div class="top-explain">Join The Revolution</div>
-       <div class="second-explain"><span class="second-explain f--span">Find the</span>  <span class="second-explain s--span">Right Plan</span>.</div>
-            <div class="third-explain">
-              <span class="span--third-explain">Flexible pricing options for freelancers <br> and design teams.</span>
+
+    <!--fourth scroll-->
+      <div class="PROTOTYPE">
+        <div class="overlap">
+          <div class="group">
+            <div class="div">
+              <div class="grey-background" />
+              <div class="oval">
+                <div class="overlap-2">
+                  <img class="line" alt="Line" src="/Line-183.svg" />
+                  <img class="img" alt="Line" src="/Line-184.svg" />
+                </div>
+              </div>
             </div>
           </div>
-          <div CLASS="bord">
-          <div class="bottom-exp--dark">
-       <div class="price-list--mother">
-       <div class="price-list--son">
-            <div style="width: 100%; height: 100%; justify-content: center; align-items: flex-start; gap: 40px; display: inline-flex">
-              <div style="width: 320px; height: 520px; position: relative">
-                <div style="width: 320px; height: 520px; left: 0; top: 0; position: absolute; background: #5956E9; border-radius: 32px"></div>
-                <div style="width: 240px; height: 72px; left: 40px; top: 407px; position: absolute">
-                  <div style="width: 240px; height: 72px; left: 0; top: 0; position: absolute; background: white; border-radius: 20px"></div>
-                  <div style="width: 192.49px; left: 22.40px; top: 30px; position: absolute; text-align: center; color: #2522BA; font-size: 16px; font-family: Poppins; font-weight: 500; line-height: 12.80px; word-wrap: break-word">Try free for 30 days</div>
-                </div>
-                <div style="width: 106px; height: 24px; left: 40px; top: 40px; position: absolute">
-                  <div style="left: 38px; top: 2px; position: absolute; color: white; font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Individual</div>
-                  <div style="width: 24px; height: 24px; left: 0; top: 0; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                    <div style="width: 24px; height: 24px"></div>
-                    <div style="width: 20px; height: 20px; opacity: 0.50; background: white; border-radius: 10px"></div>
-                    <div style="width: 12px; height: 5px; background: #FFDC60"></div>
-                  </div>
-                </div>
-                <div style="left: 40px; top: 70px; position: absolute; color: white; font-size: 40px; font-family: DM Sans; font-weight: 500; line-height: 40px; word-wrap: break-word">Professional</div>
-                <div style="width: 117px; height: 22px; left: 40px; top: 130px; position: absolute; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
-                  <div style="color: white; font-size: 20px; font-family: Poppins; font-weight: 600; line-height: 22px; word-wrap: break-word">$19.99</div>
-                  <div style="opacity: 0.50; color: white; font-size: 14px; font-family: DM Sans; font-weight: 500; line-height: 13.91px; word-wrap: break-word">/month</div>
-                </div>
-                <div style="width: 240px; height: 168px; left: 40px; top: 197px; position: absolute">
-                  <div style="width: 240px; height: 24px; left: 0; top: 0; position: absolute">
-                    <div style="width: 23.61px; height: 24px; left: 0; top: 0; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                      <div style="width: 23.61px; height: 24px"></div>
-                      <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                    </div>
-                    <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">1 user</div>
-                  </div>
-                  <div style="width: 240px; height: 24px; left: 0px; top: 48px; position: absolute">
-                    <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                      <div style="width: 23.61px; height: 24px"></div>
-                      <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                    </div>
-                    <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">2 TB of secure storage</div>
-                  </div>
-                  <div style="width: 240px; height: 72px; left: 0px; top: 96px; position: absolute">
-                    <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                      <div style="width: 23.61px; height: 24px"></div>
-                      <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                    </div>
-                    <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">Premium productivity features and simple, secure file sharing</div>
-                  </div>
-                </div>
-                <div style="width: 48px; height: 48px; left: 264px; top: 8px; position: absolute">
-                  <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: #FFDC60; border-radius: 9999px"></div>
-                  <div style="width: 16px; height: 16px; left: 16px; top: 16px; position: absolute; background: #5956E9"></div>
-                </div>
-              </div>
-              <div style="width: 320px; height: 544px; position: relative">
-                <div style="width: 320px; height: 544px; left: 0px; top: 0px; position: absolute">
-                  <div style="width: 274px; height: 509px; left: 24px; top: 35px; position: absolute; opacity: 0.25; background: #99A1AA; box-shadow: 48px 48px 48px; border-radius: 20px; filter: blur(48px)"></div>
-                  <div style="width: 320px; height: 520px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 32px; border: 1px #F8F8F8 solid"></div>
-                </div>
-                <div style="width: 240px; height: 72px; left: 40px; top: 407px; position: absolute">
-                  <div style="width: 240px; height: 72px; left: 0px; top: 0px; position: absolute; background: #FAB8C4; border-radius: 20px"></div>
-                  <div style="width: 192.49px; left: 22.40px; top: 30px; position: absolute; text-align: center; color: #27272E; font-size: 16px; font-family: Poppins; font-weight: 500; line-height: 12.80px; word-wrap: break-word">Try free for 30 days</div>
-                </div>
-                <div style="width: 120px; height: 24px; left: 40px; top: 40px; position: absolute">
-                  <div style="left: 38px; top: 2px; position: absolute; color: #292930; font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Small Team</div>
-                  <div style="width: 24px; height: 24px; left: 0px; top: 0; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                    <div style="width: 24px; height: 24px"></div>
-                    <div style="width: 20px; height: 20px; opacity: 0.30; background: #FAB8C4; border-radius: 10px"></div>
-                    <div style="width: 12px; height: 5px; background: #5956E9"></div>
-                  </div>
-                </div>
-                <div style="left: 40px; top: 70px; position: absolute; color: #292930; font-size: 40px; font-family: DM Sans; font-weight: 500; line-height: 40px; word-wrap: break-word">Standard</div>
-                <div style="width: 121px; height: 22px; left: 40px; top: 130px; position: absolute; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
-                  <div style="color: #5956E9; font-size: 20px; font-family: Poppins; font-weight: 600; line-height: 22px; word-wrap: break-word">$29.99</div>
-                  <div style="color: #999FAE; font-size: 14px; font-family: DM Sans; font-weight: 500; line-height: 13.91px; word-wrap: break-word">/month</div>
-                </div>
-                <div style="width: 240px; height: 168px; left: 40px; top: 197px; position: absolute">
-                  <div style="width: 240px; height: 24px; left: 0; top: 0; position: absolute">
-                    <div style="width: 23.61px; height: 24px; left: 0; top: 0; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                      <div style="width: 23.61px; height: 24px"></div>
-                      <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                    </div>
-                    <div style="width: 204px; left: 36px; top: 0; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">3+ user</div>
-                  </div>
-                  <div style="width: 240px; height: 24px; left: 0px; top: 48px; position: absolute">
-                    <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                      <div style="width: 23.61px; height: 24px"></div>
-                      <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                    </div>
-                    <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">5 TB of secure storage</div>
-                  </div>
-                  <div style="width: 240px; height: 72px; left: 0px; top: 96px; position: absolute">
-                    <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                      <div style="width: 23.61px; height: 24px"></div>
-                      <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                    </div>
-                    <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">Premium productivity features and simple, secure file sharing</div>
-                  </div>
-                </div>
-              </div>
-              <div style="width: 320px; height: 520px; position: relative">
-                <div style="width: 320px; height: 520px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 32px; border: 1px #E3E6E9 solid"></div>
-                <div style="width: 240px; height: 72px; left: 40px; top: 407px; position: absolute">
-                  <div style="width: 240px; height: 72px; left: 0px; top: 0px; position: absolute; background: #5956E9; border-radius: 20px"></div>
-                  <div style="width: 192.49px; left: 22.40px; top: 30px; position: absolute; text-align: center; color: white; font-size: 16px; font-family: Poppins; font-weight: 500; line-height: 12.80px; word-wrap: break-word">Try free for 30 days</div>
-                </div>
-                <div style="width: 121px; height: 24px; left: 40px; top: 40px; position: absolute">
-                  <div style="left: 38px; top: 2px; position: absolute; color: #292930; font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Large Team</div>
-                  <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                    <div style="width: 24px; height: 24px"></div>
-                    <div style="width: 20px; height: 20px; opacity: 0.30; background: #FAB8C4; border-radius: 10px"></div>
-                    <div style="width: 12px; height: 5px; background: #5956E9"></div>
-                  </div>
-                </div>
-                <div style="left: 40px; top: 70px; position: absolute; color: #292930; font-size: 40px; font-family: DM Sans; font-weight: 500; line-height: 40px; word-wrap: break-word">Ultimate</div>
-                <div style="width: 122px; height: 22px; left: 40px; top: 130px; position: absolute; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
-                  <div style="color: #5956E9; font-size: 20px; font-family: Poppins; font-weight: 600; line-height: 22px; word-wrap: break-word">$99.99</div>
-                  <div style="color: #999FAE; font-size: 14px; font-family: DM Sans; font-weight: 500; line-height: 13.91px; word-wrap: break-word">/month</div>
-                </div>
-                <div style="width: 240px; height: 168px; left: 40px; top: 197px; position: absolute">
-                  <div style="width: 240px; height: 24px; left: 0px; top: 0px; position: absolute">
-                    <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                      <div style="width: 23.61px; height: 24px"></div>
-                      <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                    </div>
-                    <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">10+ user</div>
-                  </div>
-                  <div style="width: 240px; height: 24px; left: 0px; top: 48px; position: absolute">
-                    <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                      <div style="width: 23.61px; height: 24px"></div>
-                      <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                    </div>
-                    <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">10 TB of secure storage</div>
-                  </div>
-                  <div style="width: 240px; height: 72px; left: 0px; top: 96px; position: absolute">
-                    <div style="width: 23.61px; height: 24px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                      <div style="width: 23.61px; height: 24px"></div>
-                      <div style="width: 15.25px; height: 8.57px; background: #FAB8C4"></div>
-                    </div>
-                    <div style="width: 204px; left: 36px; top: 0px; position: absolute; color: #999FAE; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">Premium productivity features and simple, secure file sharing</div>
-                  </div>
-                </div>
-              </div>
-            </div>
+          <div class="content">
+            <p class="text-wrapper">Get Free Space Right Now !</p>
+            <p class="with-collab-smart">
+              With Collab Smart Prototype you create your interactions and animations once and store as presets in the
+              cloud for future use.
+              <br />
+              <br />
+              Use the Collab App to test in real-time.
+            </p>
+<!--            <Button-->
+<!--                class="button-instance"-->
+<!--                div-class="design-component-instance-node"-->
+<!--                text="See Sample Prototype"-->
+<!--            />-->
+          </div>
+          <div class="ellipse" />
+          <div class="ellipse-2" />
+          <div class="ellipse-3" />
+          <div class="ellipse-4" />
+          <div class="ellipse-5" />
+          <img class="alphabet" alt="Alphabet" src="/G-word.svg" />
+          <img class="group-2" alt="Group" src="/B-word.svg" />
+          <img class="group-3" alt="Group" src="/num0.svg" />
+          <img class="group-4" alt="Group" src="/num5.svg" />
+        </div>
+      </div>
+
+    <!--fifth scroll-->
+       <div class="PRICING">
+         <div class="typography">
+           <div class="display">
+             <span class="text-wrapper">Find the </span>
+             <span class="span">Right Plan.</span>
+           </div>
+           <span class="head-content">Join The Revolution</span>
+           <p class="p">Flexible pricing options for freelancers and design teams.</p>
+         </div>
+         <div class="background">
+           <div class="overlap">
+             <div class="rectangle-2"></div>
+             <span class="ellipse"></span>
+             <span class="ellipse-1"></span>
+             <span class="ellipse-2"></span>
+             <span class="ellipse-3"></span>
+           </div>
+           <div class="plans">
+             <div class="rectangle-1"></div>
+             <div class="rectangle-2"></div>
+             <div class="rectangle-3"></div>
+           </div>
+         </div>
        </div>
-       <div class="price-circle"></div>
-       <div class="price-circle--bottom"></div>
-        </div>
 
-          </div>
 
-          </div>
-        </div>
-        </section>
+
+
+
+
+
+
 
     <!--new scroll started-->
         <section id="showcase">
@@ -822,12 +740,53 @@ left: 909px;
   top: -169px;
   width: 100%;
 }
-
 .TIME-LINE .overlap-group {
-  height: 631px;
+  height: 438px;
   position: relative;
+  top: -36px;
 }
-
+.TIME-LINE .calender{
+  position: absolute;
+  right: 195px;
+}
+.TIME-LINE .display-content{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  left: 400px;
+  top: 80px;
+  gap: 65px;
+  width: 400px;
+}
+.TIME-LINE .circle-1{
+  position: absolute;
+  background-color: #FFDC60;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  left: 358px;
+  z-index: -1;
+}
+.TIME-LINE .head-content{
+  color: #292930;
+  font-family: DM Sans;
+  font-size: 82px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: -2px;
+  word-spacing: 26px;
+}
+.TIME-LINE .body-content{
+  color: #999FAE;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 2.6px;
+  word-spacing: -1px;
+}
 .TIME-LINE .group {
   height: 399px;
   position: absolute;
@@ -836,13 +795,11 @@ left: 909px;
   top: 463px;
   width: 929px;
 }
-
 .TIME-LINE .div {
   height: 399px;
   position: relative;
   width: 933px;
 }
-
 .TIME-LINE .group-2 {
   height: 38px;
   left: 0;
@@ -850,7 +807,6 @@ left: 909px;
   top: 0;
   width: 933px;
 }
-
 .TIME-LINE .display {
   color: #999fae;
   font-family: "Poppins-Regular", Helvetica;
@@ -862,7 +818,6 @@ left: 909px;
   position: absolute;
   top: 0;
 }
-
 .TIME-LINE .text-wrapper {
   color: #999fae;
   font-family: "Poppins-Regular", Helvetica;
@@ -874,7 +829,6 @@ left: 909px;
   position: absolute;
   top: 0;
 }
-
 .TIME-LINE .display-wrapper {
   height: 24px;
   left: 158px;
@@ -882,7 +836,6 @@ left: 909px;
   top: 14px;
   width: 97px;
 }
-
 .TIME-LINE .display-2 {
   color: #28282f;
   font-family: "Poppins-Regular", Helvetica;
@@ -895,7 +848,6 @@ left: 909px;
   top: 0;
   white-space: nowrap;
 }
-
 .TIME-LINE .div-wrapper {
   height: 24px;
   left: 444px;
@@ -903,7 +855,6 @@ left: 909px;
   top: 10px;
   width: 58px;
 }
-
 .TIME-LINE .group-3 {
   height: 24px;
   left: 596px;
@@ -911,7 +862,6 @@ left: 909px;
   top: 10px;
   width: 58px;
 }
-
 .TIME-LINE .group-4 {
   height: 24px;
   left: 701px;
@@ -919,7 +869,6 @@ left: 909px;
   top: 10px;
   width: 65px;
 }
-
 .TIME-LINE .lines {
   height: 365px;
   left: 205px;
@@ -927,14 +876,12 @@ left: 909px;
   top: 34px;
   width: 528px;
 }
-
 .TIME-LINE .line-1 {
   background: #E3E6E9;
   width: 1px;
   height: 353px;
   position: absolute;
 }
-
 .TIME-LINE .line-2 {
   background: #E3E6E9;
   width: 1px;
@@ -942,7 +889,6 @@ left: 909px;
   position: absolute;
   left: 269px;
 }
-
 .TIME-LINE .line-3 {
   background: #E3E6E9;
   width: 1px;
@@ -950,7 +896,6 @@ left: 909px;
   position: absolute;
   left: 422px;
 }
-
 .TIME-LINE .line-4 {
   background: #E3E6E9;
   width: 1px;
@@ -958,7 +903,6 @@ left: 909px;
   position: absolute;
   left: 527px;
 }
-
 .TIME-LINE .overlap-group-wrapper {
   height: 48px;
   left: 205px;
@@ -966,13 +910,11 @@ left: 909px;
   top: 118px;
   width: 530px;
 }
-
 .TIME-LINE .overlap-group-2 {
   height: 48px;
   position: relative;
   width: 528px;
 }
-
 .TIME-LINE .rectangle {
   background-color: #886ba6;
   height: 48px;
@@ -982,7 +924,6 @@ left: 909px;
   top: 0;
   width: 528px;
 }
-
 .TIME-LINE .rectangle-2 {
   background-color: #886ba6;
   height: 48px;
@@ -991,7 +932,6 @@ left: 909px;
   top: 0;
   width: 527px;
 }
-
 .TIME-LINE .text-wrapper-2 {
   color: #ffffff;
   font-family: "Poppins-Regular", Helvetica;
@@ -1004,7 +944,6 @@ left: 909px;
   top: 12px;
   width: 213px;
 }
-
 .TIME-LINE .overlap-wrapper {
   height: 48px;
   left: 385px;
@@ -1012,13 +951,11 @@ left: 909px;
   top: 198px;
   width: 350px;
 }
-
 .TIME-LINE .overlap-2 {
   height: 48px;
   position: relative;
   width: 348px;
 }
-
 .TIME-LINE .rectangle-3 {
   background-color: #886ba6;
   height: 48px;
@@ -1028,7 +965,6 @@ left: 909px;
   top: 0;
   width: 348px;
 }
-
 .TIME-LINE .rectangle-4 {
   background-color: #886ba6;
   height: 48px;
@@ -1037,7 +973,6 @@ left: 909px;
   top: 0;
   width: 242px;
 }
-
 .TIME-LINE .text-wrapper-3 {
   color: #ffffff;
   font-family: "Poppins-Regular", Helvetica;
@@ -1050,7 +985,6 @@ left: 909px;
   top: 12px;
   white-space: nowrap;
 }
-
 .TIME-LINE .group-5 {
   height: 48px;
   left: 205px;
@@ -1058,7 +992,6 @@ left: 909px;
   top: 278px;
   width: 530px;
 }
-
 .TIME-LINE .rectangle-5 {
   background-color: #886ba6;
   height: 48px;
@@ -1067,7 +1000,6 @@ left: 909px;
   top: 0;
   width: 269px;
 }
-
 .TIME-LINE .text-wrapper-4 {
   color: #ffffff;
   font-family: "Poppins-Regular", Helvetica;
@@ -1080,7 +1012,6 @@ left: 909px;
   top: 12px;
   white-space: nowrap;
 }
-
 .TIME-LINE .group-6 {
   height: 631px;
   left: 574px;
@@ -1088,7 +1019,6 @@ left: 909px;
   top: 400px;
   width: 1298px;
 }
-
 .TIME-LINE .ellipse {
   background-color: #fab8c4;
   border-radius: 45px;
@@ -1099,7 +1029,6 @@ left: 909px;
   top: 243px;
   width: 90px;
 }
-
 .TIME-LINE .overlap-3 {
   height: 631px;
   left: 655px;
@@ -1107,7 +1036,6 @@ left: 909px;
   top: 0;
   width: 643px;
 }
-
 .TIME-LINE .line-5 {
   left: 30px;
   top: 426px;
@@ -1117,7 +1045,6 @@ left: 909px;
   height: 3px;
   background: #E3E6E9;
 }
-
 .TIME-LINE .ellipse-2 {
   background-color: #5956e8;
   border-radius: 20px;
@@ -1127,7 +1054,6 @@ left: 909px;
   top: 228px;
   width: 40px;
 }
-
 .TIME-LINE .ellipse-3 {
   background-color: #ffdc60;
   border-radius: 45px;
@@ -1136,8 +1062,8 @@ left: 909px;
   position: absolute;
   top: 541px;
   width: 90px;
+  z-index: 1;
 }
-
 .TIME-LINE .ellipse-4 {
   border: 1px solid;
   border-color: #e3e6e9;
@@ -1151,188 +1077,395 @@ left: 909px;
 
 
 
-
-
-
-
-
-
-
-.box {
-  height: 631px;
+.PROTOTYPE {
+  height: 694px;
+  width: 1332px;
   position: relative;
-  width: 1298px;
+  left: 400px;
+  top: 100px;
 }
-
-.box .group {
-  height: 1660px;
-  left: 285px;
+.PROTOTYPE .overlap {
+  height: 769px;
+  position: relative;
+  top: -11px;
+  width: 1451px;
+}
+.PROTOTYPE .group {
+  height: 712px;
+  left: 0;
   position: absolute;
-  top: 135px;
-  width: 1438px;
+  top: 0;
+  width: 1451px;
 }
-
-.box .ellipse {
-  background-color: #fab8c4;
-  border-radius: 45px;
-  height: 90px;
+.PROTOTYPE .div {
+  height: 665px;
+  position: relative;
+  top: 47px;
+  width: 1276px;
+}
+.PROTOTYPE .stack-bg {
+  height: 648px;
+  left: 16px;
+  position: absolute;
+  top: 17px;
+  width: 1208px;
+}
+.PROTOTYPE .overlap-group-2 {
+  height: 648px;
+  position: relative;
+}
+.PROTOTYPE .white-bg {
+  background-color: #ecf2f6;
+  border-radius: 40px;
+  height: 640px;
   left: 0;
   opacity: 0.5;
   position: absolute;
-  top: 243px;
-  width: 90px;
+  top: 8px;
+  width: 1208px;
 }
-
-.box .overlap-group {
-  height: 631px;
-  left: 655px;
-  position: absolute;
-  top: 0;
-  width: 643px;
-}
-
-
-.box .div {
-  background-color: #5956e8;
-  border-radius: 20px;
-  height: 40px;
-  left: 363px;
-  position: absolute;
-  top: 228px;
-  width: 40px;
-}
-
-.box .ellipse-2 {
-  background-color: #ffdc60;
-  border-radius: 45px;
-  height: 90px;
-  left: 0;
-  position: absolute;
-  top: 541px;
-  width: 90px;
-}
-
-.box .ellipse-3 {
-  border: 1px solid;
-  border-color: #e3e6e9;
-  border-radius: 247.5px/248px;
-  height: 496px;
-  left: 148px;
-  position: absolute;
-  top: 0;
-  width: 495px;
-}
-.item--calender{
-  top: 324px;
-  right: 486px;
-  position: absolute;
-  height: fit-content;
-  width: fit-content;
-  background: #fff;
-}
-.clock--style{
-  position: absolute;
-  width: fit-content;
-  height: fit-content;
-  left: 1001px;
-  top: 565px;
-  background: none;
-}
-.website--backup{
-  position: absolute;
-  top: 920px;
-  left: 661px;
-  border-radius: 7px;
-  width: 393px;
-  height: 29px;
-  background-color: #896BA7;
-  color: #fff;
-  text-align: center;
-  line-height: 34px;
-  font-size: 18px;
-  border: 2px solid #896BA7;
-}
-.contact--backup{
-  position: absolute;
-  top: 1014px;
-  left: 751px;
-  width: 247px;
-  height: 29px;
-  border-radius: 7px;
-  background-color: #896BA7;
-  color: #fff;
-  text-align: center;
-  line-height: 34px;
-  font-size: 18px;
-  border: 2px solid #896BA7;
-}
-.my--project{
-  position: absolute;
-  top: 1094px;
-  left: 666px;
-  width: 247px;
-  height: 29px;
-  border-radius: 7px;
-  background-color: #896BA7;
-  color: #fff;
-  text-align: left;
-  line-height: 34px;
-  font-size: 18px;
-  border: 2px solid #896BA7;
-}
-.dark--place{
-  position: absolute;
-  width: 1300px;
-  height: 700px;
-  background: #27272E;
-  z-index: -4;
+.PROTOTYPE .white-bg-2 {
+  background-color: #ecf2f6;
   border-radius: 40px;
-  border: 1px white solid;
-  top: 1234px;
-  left: 290px;
-}
-.explanation-dark--theme{
-  background: none;
-  top: 1292px;
-  left: 500px;
-  height: fit-content;
-  width: fit-content;
+  height: 640px;
+  left: 0;
+  opacity: 0.5;
   position: absolute;
-  color: white;
-  font-size: 75px;
-  font-family: DM Sans;
-  font-weight: 500;
-  line-height: 75px;
-  word-wrap: break-word
+  top: 0;
+  width: 1208px;
 }
-.explanation-dark--opacity{
-  color: white;
-  font-size: 16px;
+.PROTOTYPE .grey-background {
+  background-color: #27272e;
+border: 1px solid;
+  -o-border-image: radial-gradient(rgb(255, 255, 255), rgb(240, 244, 247)) 1;
+  border-image: radial-gradient(rgb(255, 255, 255), rgb(240, 244, 247)) 1;
+ border-radius: 40px;
+  height: 658px;
+  left: -42px;
+  position: absolute;
+  top: 0;
+  width: 1390px;
+}
+.PROTOTYPE .oval {
+  height: 526px;
+  left: 640px;
+  position: absolute;
+  top: 8px;
+  width: 542px;
+}
+.PROTOTYPE .overlap-2 {
+  height: 526px;
+  position: relative;
+  width: 543px;
+}
+.PROTOTYPE .line {
+  height: 338px;
+  left: 205px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 338px;
+}
+.PROTOTYPE .img {
+  height: 185px;
+  left: 358px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 185px;
+}
+.PROTOTYPE .content {
+  height: 505px;
+  left: 82px;
+  position: absolute;
+  top: 85px;
+  width: 436px;
+}
+.PROTOTYPE .text-wrapper {
+  color: #ffffff;
+  font-family: "DM Sans-Medium", Helvetica;
+  font-size: 75px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -1.88px;
+  line-height: 75px;
+  position: absolute;
+  top: 0;
+  width: 432px;
+}
+.PROTOTYPE .with-collab-smart {
+  color: #ffffff;
+  left: 1px;
+  opacity: 0.7;
+  position: absolute;
+  top: 292px;
+  width: 389px;
   font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  word-wrap: break-word;
-  position: absolute;
-  top: 1527px;
-  left: 498px;
-  letter-spacing: 2px;
-  opacity: 0.3;
+  letter-spacing: -0.4px;
 }
-.submit--dark-place{
+.PROTOTYPE .ellipse {
+  background-color: #FAB8C4;
+  border-radius: 35px;
+  height: 70px;
+  left: 550px;
   position: absolute;
-  top: 1761px;
-  left: 559px;
-  border-radius: 10px;
-  width: 200px;
-  height: 50px;
+  top: 183px;
+  width: 70px;
+}
+.PROTOTYPE .ellipse-2 {
+  background-color: #FAB8C4;
+  border-radius: 35px;
+  height: 70px;
+  left: 920px;
+  position: absolute;
+  top: 581px;
+  width: 70px;
+}
+.PROTOTYPE .ellipse-3 {
+  background-color: #FAB8C4;
+  border-radius: 35px;
+  height: 70px;
+  left: 1055px;
+  position: absolute;
+  top: 128px;
+  width: 70px;
+}
+.PROTOTYPE .ellipse-4 {
+  background-color: #FAB8C4;
+  border-radius: 410px;
+  width: 410px;
+  height: 410px;
+  position: absolute;
+  top: 180px;
+  right: 398px;
+}
+.PROTOTYPE .ellipse-5 {
+  background-color: #FFDC60;
+  border-radius: 65px;
+  height: 130px;
+  left: 240px;
+  position: absolute;
+  top: 639px;
+  width: 130px;
+}
+.PROTOTYPE .alphabet {
+  height: 314px;
+  left: 856px;
+  position: absolute;
+  top: 333px;
+  width: 317px;
+}
+.PROTOTYPE .group-2 {
+  height: 316px;
+  left: 1106px;
+  position: absolute;
+  top: 160px;
+  width: 236px;
+}
+.PROTOTYPE .group-3 {
+  height: 286px;
+  left: 852px;
+  position: absolute;
+  top: 134px;
+  width: 166px;
+}
+.PROTOTYPE .group-4 {
+  height: 275px;
+  left: 681px;
+  position: absolute;
+  top: 135px;
+  width: 161px;
+}
+
+
+
+.PRICING{
+  width: 100%;
+  height: 917px;
+  position: relative;
+  top: 143px;
+}
+.PRICING .typography {
+  height: 201px;
+  left: 600px;
+  position: absolute;
+  top: 130px;
+  width: 742px;
+}
+
+.PRICING .display {
+  color: transparent;
+  font-family: "DM Sans-Medium", Helvetica;
+  font-size: 80px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -2px;
+  line-height: 80px;
+  position: absolute;
   text-align: center;
-  line-height: 48px;
-  background-color: #5956E9; /* رنگ پس زمینه دکمه */
-  color: white; /* رنگ متن دکمه */
-  padding: 10px 20px; /* فاصله داخلی دکمه */
-  border: none; /* حذف حاشیه دکمه */
-  cursor: pointer; /* نشانگر ماوس به شکل دسته دکمه تغییر می‌کند */
+  top: 36px;
+  width: 736px;
 }
+
+.PRICING .text-wrapper {
+  color: #28282f;
+}
+
+.PRICING .span {
+  color: #5956e8;
+}
+
+.PRICING .head-content {
+  color: #292930;
+  font-family: DM Sans;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 99.327%;
+  letter-spacing: -0.5px;
+  position: absolute;
+  left: 282px;
+  top: -18px;
+}
+
+.PRICING .p {
+  color: #999fae;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 179px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 147px;
+  width: 378px;
+}
+.PRICING .background {
+  height: 835px;
+  left: 378px;
+  position: relative;
+  top: 330px;
+  width: 1326px;
+  background-color: #454343;
+  border-radius: 40px;
+}
+
+.PRICING .overlap {
+  height: 835px;
+  position: absolute;
+}
+
+.PRICING .overlap-group {
+  height: 693px;
+  position: absolute;
+}
+
+.PRICING .rectangle {
+  background-color: #fab8c4;
+  border-radius: 40px;
+  height: 684px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 9px;
+  width: 1291px;
+}
+
+.PRICING .div {
+  background-color: #fab8c4;
+  border-radius: 40px;
+  height: 684px;
+  left: 0;
+  opacity: 0.3;
+  position: absolute;
+  top: 0;
+  width: 1291px;
+}
+
+.PRICING .rectangle-2 {
+  background-color: #454243;
+  border-radius: 40px;
+  height: 760px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1326px;
+}
+.PRICING .ellipse{
+
+}
+.PRICING .ellipse-1 {
+  background-color: #5956e8;
+  border-radius: 109.58px;
+  height: 219px;
+  left: 437px;
+  position: absolute;
+  top: 616px;
+  width: 219px;
+}
+.PRICING .ellipse-2 {
+  border: 1px solid;
+  border-color: #ffffff24;
+  border-radius: 75.37px;
+  height: 151px;
+  left: 470px;
+  position: absolute;
+  top: 651px;
+  width: 151px;
+}
+.PRICING .ellipse-3 {
+  background-color: #ffffff;
+  border-radius: 25.66px;
+  height: 51px;
+  left: 877px;
+  position: absolute;
+  top: 96px;
+  width: 51px;
+}
+.PRICING .plans{
+  position: absolute;
+  display: flex;
+  width: 1040px;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+}
+.PRICING .rectangle-1{
+  border-radius: 32px;
+  background: #5956E9;
+  width: 320px;
+  height: 520px;
+}
+.PRICING .rectangle-2{
+  border-radius: 32px;
+  background: #E3E6E9;
+  width: 320px;
+  height: 520px;
+}
+.PRICING .rectangle-3{
+  border-radius: 32px;
+  background: #E3E6E9;
+  width: 320px;
+  height: 520px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .submit--dark-place input{
   background: none;
   border-style: none;
