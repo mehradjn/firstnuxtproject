@@ -191,7 +191,6 @@
          </div>
          <div class="background">
            <div class="overlap">
-             <div class="rectangle-2"></div>
              <span class="ellipse"></span>
              <span class="ellipse-1"></span>
              <span class="ellipse-2"></span>
@@ -205,94 +204,97 @@
          </div>
        </div>
 
-
-
-
-
-
-
-
-
-    <!--new scroll started-->
-        <section id="showcase">
-          <div class="showcase-mother">
-          <div class="showcase-circles">
-            <div style="width: 924px; height: 924px; left: 795px; top: 0px; position: absolute; background: #5956E9; border-radius: 9999px"></div>
-            <div style="width: 153px; height: 153px; left: 1163px; top: 124px; position: absolute; opacity: 0.40; background: #5956E9; border-radius: 9999px"></div>
-            <div style="width: 191px; height: 191px; left: 0px; top: 95px; position: absolute; background: #FAB8C4; border-radius: 9999px"></div>
-            <div style="width: 80px; height: 80px; left: 255px; top: 530px; position: absolute; background: white; border-radius: 9999px"></div>
-            <div style="width: 24px; height: 24px; left: 1036px; top: 142px; position: absolute; background: white; border-radius: 9999px"></div>
-            <div style="width: 16px; height: 16px; left: 1423px; top: 273px; position: absolute; opacity: 0.50; background: white; border-radius: 9999px"></div>
-            <div style="width: 16px; height: 16px; left: 962px; top: 252px; position: absolute; opacity: 0.50; background: white; border-radius: 9999px"></div>
-            <div style="width: 16px; height: 16px; left: 1089px; top: 743px; position: absolute; opacity: 0.50; background: white; border-radius: 9999px"></div>
+    <!--sixth scroll-->
+      <div class="SHOWCASE">
+        <div class="overlap">
+          <div class="circles">
+              <span class="ellipse-1"></span>
+            <span class="ellipse-2"></span>
           </div>
-            <div class="showcase-content">
-              <div style="width: 500px; left: 1px; top: 44px; position: absolute; color: #292930; font-size: 80px; font-family: DM Sans; font-weight: 500; line-height: 80px; word-wrap: break-word">Get Control your Data</div>
-              <div style="width: 410px; left: 1px; top: 252px; position: absolute; color: #999FAE; font-size: 18px; font-family: Poppins; font-weight: 400; word-wrap: break-word">See what designers around the world are building with Collab.</div>
-              <div style="left: 1px; top: 0px; position: absolute; color: #5956E9; font-size: 20px; font-family: DM Sans; font-weight: 700; line-height: 19.87px; word-wrap: break-word">Showcase</div>
-              <div style="width: 233px; height: 82px; padding-left: 46px; padding-right: 46px; padding-top: 29px; padding-bottom: 29px; left: 0px; top: 351px; position: absolute; background: #5956E9; border-radius: 20px; justify-content: flex-start; align-items: flex-end; gap: 10px; display: inline-flex">
-                <div style="text-align: center; color: white; font-size: 16px; font-family: Poppins; font-weight: 500; word-wrap: break-word">View More Projects</div>
-              </div>
-            </div>
-              <div class="box">
-                <img class="group" alt="Group" src="/Group240.svg" />
-              </div>
+          <img class="showcase" alt="Showcase" src="/Showcase.svg" />
+          <div class="content">
+            <div class="display">Get Control your Data</div>
+            <p class="text-wrapper">See what designers around the world are building with Collab.</p>
+            <div class="text-wrapper-2">Showcase</div>
+            <button class="button">
+              <div class="text-wrapper-3">View More Projects</div>
+            </button>
           </div>
-        </section>
+        </div>
+      </div>
 
-    <!--new scroll started-->
-        <section id="sign-up">
-          <div class="sign-up-mother">
-            <div class="sign-up-simple">
-              <div style="width: 1240px; height: 580px; left: 0px; top: 0px; position: absolute; background: #5956E9; border-radius: 40px"></div>
-              <div style="width: 680px; left: 100px; top: 304px; position: absolute; color: white; font-size: 18px; font-family: Poppins; font-weight: 400; word-wrap: break-word">We offer flexible pricing options for freelancers and design teams. </div>
-
-              <div style="width: 383px; height: 72px; left: 401px; top: 474px; position: absolute; box-shadow: 0px 48px 48px rgba(0, 0, 0, 0.12); justify-content: center; align-items: center; display: inline-flex">
-                <div style="width: 383px; height: 72px; background: white; border-radius: 20px"></div>
+    <!--last scroll-->
+      <div class="SIGN-UP">
+        <div class="overlap">
+          <div class="nav">
+            <div class="overlap-group">
+              <img class="element-facebook" alt="Element facebook" src="001-facebook.png" />
+              <img class="element-twitter" alt="Element twitter" src="003-twitter.png" />
+              <div class="element-instagram">
+                <div class="div">
+                  <img class="shape" alt="Shape" src="image.svg" />
+                  <div class="oval" />
+                </div>
               </div>
-              <div style="width: 810px; left: 100px; top: 120px; position: absolute; color: white; font-size: 80px; font-family: DM Sans; font-weight: 500; line-height: 80px; word-wrap: break-word">Ready to use the smartest design tool?</div>
-            </div>
-            <div class="box">
-              <div class="nav">
-                <div class="overlap">
-                  <div class="newsletter">
-                    <div class="subscribe-to-our-new">Subscribe to our newsletter</div>
-                    <div class="text-box">
-                      <div class="div">
-                        <div class="drop-shadow" />
-                        <div class="text-box-bg" />
-                        <div class="rectangle" />
-                        <div class="text-wrapper">Email</div>
-                        <div class="text-wrapper-2">Submit</div>
-                      </div>
-                    </div>
+              <div class="newsletter">
+                <div class="subscribe-to-our-new">Subscribe to our newsletter</div>
+                <div class="text-box">
+                  <div class="overlap-group-2">
+                    <div class="drop-shadow" />
+                    <div class="text-box-bg" />
+                    <div class="rectangle" />
+                    <div class="text-wrapper">Email</div>
+                    <div class="text-wrapper-2">Submit</div>
                   </div>
-                  <div class="logo-about">
-                    <div class="logo" />
-                    <p class="copyright-lo">
-                      Copyright © 2020.
-                      LogoIpsum. All rights reserved.
-                    </p>
-                  </div>
-                  <div class="services">
-                    <div class="text-wrapper-3">Services</div>
-                    <div class="text-wrapper-4">Email Marketing</div>
-                    <div class="text-wrapper-5">Campaigns</div>
-                    <div class="text-wrapper-6">Branding</div>
-                    <div class="text-wrapper-7">Offline</div>
-                  </div>
-                  <div class="about">
-                    <div class="text-wrapper-3">About</div>
-                    <div class="text-wrapper-4">Our Story</div>
-                    <div class="text-wrapper-5">Benefits</div>
-                    <div class="text-wrapper-6">Team</div>
-                    <div class="text-wrapper-7">Careers</div>
-                  </div>
+                </div>
+              </div>
+              <div class="logo-about">
+                <div class="logo" />
+                <p class="copyright-lo">
+                  Copyright © 2020.
+                  LogoIpsum. All rights reserved.
+                </p>
+              </div>
+              <div class="services">
+                <div class="text-wrapper-3">Services</div>
+                <div class="text-wrapper-4">Email Marketing</div>
+                <div class="text-wrapper-5">Campaigns</div>
+                <div class="text-wrapper-6">Branding</div>
+                <div class="text-wrapper-7">Offline</div>
+              </div>
+              <div class="about">
+                <div class="text-wrapper-3">About</div>
+                <div class="text-wrapper-4">Our Story</div>
+                <div class="text-wrapper-5">Benefits</div>
+                <div class="text-wrapper-6">Team</div>
+                <div class="text-wrapper-7">Careers</div>
+              </div>
+              <div class="back-to-top">
+                <div class="ice">
+                  <img class="pot" alt="pot" src="/pot.svg" />
                 </div>
               </div>
             </div>
           </div>
-        </section>
+          <div class="grey-background" />
+          <div class="simple-call-to">
+            <div class="overlap-2">
+              <p class="p">We offer flexible pricing options for freelancers and design teams.</p>
+              <div class="button" />
+              <p class="display">Ready to use the smartest design tool?</p>
+            </div>
+          </div>
+          <div class="sign-up">
+            <p class="display-2">
+              Ready to get started?
+              <br />
+              Sign up with your email
+            </p>
+          </div>
+          <img class="sphere" alt="Sphere" src="sphere.png" />
+          <img class="background-cloud" alt="Background cloud" src="2.svg" />
+        </div>
+      </div>
     </div>
 </template>
 
@@ -1296,7 +1298,6 @@ border: 1px solid;
   top: 130px;
   width: 742px;
 }
-
 .PRICING .display {
   color: transparent;
   font-family: "DM Sans-Medium", Helvetica;
@@ -1310,15 +1311,12 @@ border: 1px solid;
   top: 36px;
   width: 736px;
 }
-
 .PRICING .text-wrapper {
   color: #28282f;
 }
-
 .PRICING .span {
   color: #5956e8;
 }
-
 .PRICING .head-content {
   color: #292930;
   font-family: DM Sans;
@@ -1331,7 +1329,6 @@ border: 1px solid;
   left: 282px;
   top: -18px;
 }
-
 .PRICING .p {
   color: #999fae;
   font-family: "Poppins-Regular", Helvetica;
@@ -1354,17 +1351,14 @@ border: 1px solid;
   background-color: #454343;
   border-radius: 40px;
 }
-
 .PRICING .overlap {
   height: 835px;
   position: absolute;
 }
-
 .PRICING .overlap-group {
   height: 693px;
   position: absolute;
 }
-
 .PRICING .rectangle {
   background-color: #fab8c4;
   border-radius: 40px;
@@ -1375,7 +1369,6 @@ border: 1px solid;
   top: 9px;
   width: 1291px;
 }
-
 .PRICING .div {
   background-color: #fab8c4;
   border-radius: 40px;
@@ -1386,16 +1379,6 @@ border: 1px solid;
   top: 0;
   width: 1291px;
 }
-
-.PRICING .rectangle-2 {
-  background-color: #454243;
-  border-radius: 40px;
-  height: 760px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 1326px;
-}
 .PRICING .ellipse{
 
 }
@@ -1405,7 +1388,7 @@ border: 1px solid;
   height: 219px;
   left: 437px;
   position: absolute;
-  top: 616px;
+  top: 696px;
   width: 219px;
 }
 .PRICING .ellipse-2 {
@@ -1415,7 +1398,7 @@ border: 1px solid;
   height: 151px;
   left: 470px;
   position: absolute;
-  top: 651px;
+  top: 726px;
   width: 151px;
 }
 .PRICING .ellipse-3 {
@@ -1428,12 +1411,14 @@ border: 1px solid;
   width: 51px;
 }
 .PRICING .plans{
-  position: absolute;
+  position: relative;
   display: flex;
-  width: 1040px;
+  width: fit-content;
   justify-content: center;
   align-items: flex-start;
-  gap: 40px;
+  gap: 24px;
+  top: 190px;
+  margin: auto;
 }
 .PRICING .rectangle-1{
   border-radius: 32px;
@@ -1456,257 +1441,167 @@ border: 1px solid;
 
 
 
-
-
-
-
-
-
-
-
-
-
-.submit--dark-place input{
-  background: none;
-  border-style: none;
-  color: #fff;
-}
-input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس زمینه دکمه هنگام نشانگر ماوس روی آن است */
-}
-.circle-pink--darktheme{
-  position: absolute;
-  width: 90px;
-  height: 90px;
-  opacity: 0.50;
-  background: #FAB8C4;
-  border-radius: 50%;
-  top: 1319px;
-  left: 1404px;
-}
-.circle-pink--big{
-  position: absolute;
-  width: 320px;
-  height: 320px;
-  opacity: 0.50;
-  background: #FAB8C4;
-  border-radius: 50%;
-  top: 1508px;
-  left: 999px;
-}
-.line--dark{
-  width: 478px;
-  height: 0px;
-  left: 1115px;
-  top: 1696px;
-  position: absolute;
-  transform: rotate(-45deg);
-  transform-origin: 0 0;
-  border: 1px #E3E6E9 solid;
-}
-
-
-
-
-
-.find-the-right{
-  top: 2239px;
-  right: 110px;
-  z-index: -3;
-  position: relative;
+.SHOWCASE {
+  background-color: #ECF2F6;
+  height: 1963px;
+  overflow: hidden;
   width: 100%;
-  height: 1102px;
-  background: #fff;
+  POSITION: relative;
+  TOP: 390px;
 }
-.middle-circle--scroll{
-  top: -69px;
-  left: 820px;
-  width: 130px;
-  height: 130px;
-  background: #FFDC60;
-  border-radius: 50%;
+.SHOWCASE .overlap {
+  height: 1963px;
+  width: 100%;
+}
+.SHOWCASE .circles {
+  height: 924px;
+  left: 0;
   position: absolute;
+  top: 112px;
+  width: 1719px;
 }
-.middle-explain{
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  align-items: center;
-  gap: 62px;
-  align-content: center;
-  justify-content: flex-start;
-  top: 139px;
+.SHOWCASE .ellipse-1 {
+  background-color: #5956E9;
+  border-radius: 462px;
+  height: 924px;
+  left: 795px;
+  position: absolute;
+  top: 0;
+  width: 924px;
 }
-.top-explain{
-  color: #292930;
-  font-size: 22px;
+.SHOWCASE .ellipse-2 {
+  background-color: #FAB8C4;
+  border-radius: 95.5px;
+  height: 191px;
+  left: -112px;
+  position: absolute;
+  top: 95px;
+  width: 191px;
+}
+.SHOWCASE .div {
+  background-color: var(--colorwhite);
+  border-radius: 12px;
+  height: 24px;
+  left: 241px;
+  position: absolute;
+  top: 142px;
+  width: 24px;
+}
+.SHOWCASE .showcase {
+  height: 2232px;
+  position: absolute;
+  width: 2002px;
+  z-index: 3;
+}
+.SHOWCASE .content {
+  height: 433px;
+  left: 294px;
+  position: absolute;
+  top: 112px;
+  width: 507px;
+}
+.SHOWCASE .display {
+  color:  #29293;
+  left: 1px;
+  position: absolute;
+  top: 44px;
+  width: 500px;
   font-family: DM Sans;
-  font-weight: 700;
-  line-height: 19.87px;
-  word-wrap: break-word;
-  left: 890px;
-  top: 107px;
-  position: absolute;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  align-items: center;
-  gap: 62px;
-}
-.f--span {
-  top: 225px;
-  position: absolute;
-  left: 697px;
-  color: #292930;
   font-size: 80px;
-  font-family: DM Sans;
+  font-style: normal;
   font-weight: 500;
-  line-height: 80px;
-  word-wrap: break-word
+  line-height: 100%;
+  letter-spacing: -2px;
 }
-.s--span{
-  top: 225px;
+.SHOWCASE .text-wrapper {
+  color: #999fae;
+  left: 1px;
   position: absolute;
-  left: 1030px;
-  color: #5956E9;
-  font-size: 80px;
-  font-family: DM Sans;
-  font-weight: 500;
-  line-height: 80px;
-  word-wrap: break-word
-}
-.span--third-explain{
-  left: 813px;
-  top: 336px;
-  position: absolute;
-  color: #999FAE;
-  font-size: 25px;
+  top: 252px;
+  width: 410px;
   font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
   font-weight: 400;
-  word-wrap: break-word;
+  line-height: normal;
 }
-.bottom-exp--dark{
-  overflow: hidden;
-  opacity: 1.3;
+.SHOWCASE .text-wrapper-2 {
+  color: #5956E9;
+  left: 1px;
   position: absolute;
-  width: 1266px;
-  height: 750px;
-  background: #454343;
-  border-radius: 40px;
-  /* margin: auto; */
-  top: 397px;
-  left: 425px;
+  top: 0;
+  white-space: nowrap;
+  font-family: DM Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 99.327%;
+  letter-spacing: -0.5px;
 }
-
-
-.price-list--mother{
-  overflow-x: hidden;
-  height: 103%;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: center;
-  align-items: center;
-}
-.price-list--son{
-  z-index: 1;
-}
-.price-circle{
-  z-index: 0;
-  left: -158px;
-  top: -263px;
-  width: 540px;
-  height: 540px;
-  background: rgb(98, 179, 171);
-  border-radius: 9999px;
+.SHOWCASE .button {
+  all: unset;
+  align-items: flex-end;
+  background-color: var(--colorprimary);
+  border-radius: 20px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 10px;
+  left: 0;
+  padding: 29px 46px;
   position: absolute;
+  top: 351px;
 }
-.price-circle--bottom{
-  bottom: -123px;
-  position: absolute;
-  width: 219px;
-  height: 219px;
-  background: rgb(89, 86, 233);
-  border-radius: 9999px;
-}
-
-.showcase-mother{
-  overflow: hidden;
-  top: 2372px;
-  z-index: -3;
+.SHOWCASE .text-wrapper-3 {
+  color: var(--colorwhite);
+  font-family: var(--button-font-family);
+  font-size: var(--button-font-size);
+  font-style: var(--button-font-style);
+  font-weight: var(--button-font-weight);
+  letter-spacing: var(--button-letter-spacing);
+  line-height: var(--button-line-height);
+  margin-top: -1px;
   position: relative;
-  width: 100%;
-  height: 1693px;
-  background: #fff;
-}
-.showcase-circles{
-  left: 180px;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  background: none;
-}
-.showcase-content{
-  left: 476px;
+  text-align: center;
   width: fit-content;
-  height: fit-content;
+}
+
+
+
+
+
+.SIGN-UP {
+  height: 859px;
+  width: 100%;
+  position: relative;
+  top: 390px;
+}
+.SIGN-UP .overlap {
+  height: 1403px;
   position: absolute;
-}
-.box {
-  height: 2346px;
-  width: 2359px;
-}
-
-
-
-.sign-up-mother{
-  overflow: hidden;
-  top: 2262px;
-  z-index: -3;
-  position: relative;
   width: 100%;
-  height: 1370px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
-.sign-up-simple{
-  margin-left: 634px;
-  margin-top: 110px;
-  width: 100%;
-  height: 100%;
-  position: relative;
-}
-
-.main-container{
-  position: relative;
-  width: 100%;
-  margin-bottom: auto;
-}
-
-
-.box {
-  height: 544px;
-  width: 1440px;
-}
-
-.box .nav {
+.SIGN-UP .nav {
   height: 544px;
   left: 0;
-  position: relative;
-  top: 0;
-  width: 1440px;
+  position: absolute;
+  top: 857px;
+  width: 100%;
 }
-
-.box .overlap {
+.SIGN-UP .overlap-group {
   background-color: #27272e;
   height: 546px;
-  left: -1px;
   position: relative;
-  top: -1px;
-  width: 1442px;
-}
+  width: 100%;
 
-.box .element-facebook {
+}
+.SIGN-UP .grey-background {
+  background-color: #ecf2f6;
+  height: 868px;
+  position: absolute;
+  top: -10px;
+  width: 100%;
+}
+.SIGN-UP .element-facebook {
   height: 16px;
   left: 743px;
   position: absolute;
@@ -1714,7 +1609,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 8px;
 }
 
-.box .element-twitter {
+.SIGN-UP .element-twitter {
   height: 16px;
   left: 791px;
   position: absolute;
@@ -1722,7 +1617,8 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 20px;
 }
 
-.box .element-instagram {
+.SIGN-UP .element-instagram {
+  background-image: url(./shape.svg);
   background-size: 100% 100%;
   height: 16px;
   left: 851px;
@@ -1731,7 +1627,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 16px;
 }
 
-.box .overlap-group {
+.SIGN-UP .div {
   height: 9px;
   left: 4px;
   position: relative;
@@ -1739,7 +1635,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 9px;
 }
 
-.box .shape {
+.SIGN-UP .shape {
   height: 8px;
   left: 0;
   position: absolute;
@@ -1747,7 +1643,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 8px;
 }
 
-.box .oval {
+.SIGN-UP .oval {
   background-color: #ffffff;
   border-radius: 0.53px;
   height: 1px;
@@ -1757,7 +1653,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 1px;
 }
 
-.box .newsletter {
+.SIGN-UP .newsletter {
   height: 139px;
   left: 234px;
   position: absolute;
@@ -1765,7 +1661,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 289px;
 }
 
-.box .subscribe-to-our-new {
+.SIGN-UP .subscribe-to-our-new {
   color: #ffffff;
   font-family: "DM Sans-Regular", Helvetica;
   font-size: 22px;
@@ -1778,7 +1674,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 274px;
 }
 
-.box .text-box {
+.SIGN-UP .text-box {
   height: 59px;
   left: 4px;
   position: absolute;
@@ -1786,13 +1682,13 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 284px;
 }
 
-.box .div {
+.SIGN-UP .overlap-group-2 {
   height: 59px;
   position: relative;
   width: 280px;
 }
 
-.box .drop-shadow {
+.SIGN-UP .drop-shadow {
   background-color: #99a0aa;
   border-radius: 20px;
   filter: blur(48px);
@@ -1804,7 +1700,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 258px;
 }
 
-.box .text-box-bg {
+.SIGN-UP .text-box-bg {
   background-color: #ffffff;
   border-radius: 10px;
   height: 52px;
@@ -1814,9 +1710,9 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 274px;
 }
 
-.box .rectangle {
+.SIGN-UP .rectangle {
   background-color: #5956e8;
-  border-radius: 0 10px 10px 0;
+  border-radius: 0px 10px 10px 0px;
   height: 52px;
   left: 195px;
   position: absolute;
@@ -1824,34 +1720,36 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 85px;
 }
 
-.box .text-wrapper {
-  color: #999fae;
-  font-family: "Poppins-Regular", Helvetica;
-  font-size: 16px;
-  font-weight: 400;
+.SIGN-UP .text-wrapper {
+  color: var(--textgrey);
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  font-style: var(--body-font-style);
+  font-weight: var(--body-font-weight);
   left: 15px;
-  letter-spacing: -0.4px;
-  line-height: 24px;
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
   position: absolute;
   top: 15px;
   white-space: nowrap;
   width: 59px;
 }
 
-.box .text-wrapper-2 {
+.SIGN-UP .text-wrapper-2 {
   color: #ffffff;
-  font-family: "Poppins-Medium", Helvetica;
-  font-size: 16px;
-  font-weight: 500;
+  font-family: var(--button-font-family);
+  font-size: var(--button-font-size);
+  font-style: var(--button-font-style);
+  font-weight: var(--button-font-weight);
   left: 212px;
-  letter-spacing: -0.64px;
-  line-height: normal;
+  letter-spacing: var(--button-letter-spacing);
+  line-height: var(--button-line-height);
   position: absolute;
   text-align: center;
   top: 13px;
 }
 
-.box .logo-about {
+.SIGN-UP .logo-about {
   height: 84px;
   left: 237px;
   position: absolute;
@@ -1859,7 +1757,8 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 332px;
 }
 
-.box .logo {
+.SIGN-UP .logo {
+  background-image: url(./shape-2.svg);
   background-size: 100% 100%;
   height: 34px;
   left: 0;
@@ -1868,7 +1767,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 39px;
 }
 
-.box .copyright-lo {
+.SIGN-UP .copyright-lo {
   color: #ffffff;
   font-family: "DM Sans-Regular", Helvetica;
   font-size: 15px;
@@ -1881,7 +1780,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 332px;
 }
 
-.box .services {
+.SIGN-UP .services {
   height: 182px;
   left: 775px;
   position: absolute;
@@ -1889,7 +1788,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 106px;
 }
 
-.box .text-wrapper-3 {
+.SIGN-UP .text-wrapper-3 {
   color: #ffffff;
   font-family: "DM Sans-Regular", Helvetica;
   font-size: 17px;
@@ -1901,7 +1800,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   top: -1px;
 }
 
-.box .text-wrapper-4 {
+.SIGN-UP .text-wrapper-4 {
   color: #ffffff;
   font-family: "DM Sans-Regular", Helvetica;
   font-size: 15px;
@@ -1913,7 +1812,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   top: 41px;
 }
 
-.box .text-wrapper-5 {
+.SIGN-UP .text-wrapper-5 {
   color: #ffffff;
   font-family: "DM Sans-Regular", Helvetica;
   font-size: 15px;
@@ -1925,7 +1824,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   top: 81px;
 }
 
-.box .text-wrapper-6 {
+.SIGN-UP .text-wrapper-6 {
   color: #ffffff;
   font-family: "DM Sans-Regular", Helvetica;
   font-size: 15px;
@@ -1937,7 +1836,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   top: 121px;
 }
 
-.box .text-wrapper-7 {
+.SIGN-UP .text-wrapper-7 {
   color: #ffffff;
   font-family: "DM Sans-Regular", Helvetica;
   font-size: 15px;
@@ -1949,7 +1848,7 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   top: 161px;
 }
 
-.box .about {
+.SIGN-UP .about {
   height: 182px;
   left: 1031px;
   overflow: hidden;
@@ -1958,103 +1857,121 @@ input[type="submit"]:hover {background-color: #5956E9; /* تغییر رنگ پس
   width: 65px;
 }
 
+.SIGN-UP .back-to-top {
+  height: 50px;
+  left: 1256px;
+  position: absolute;
+  top: 61px;
+  width: 50px;
+}
 
-@media (max-width: 460px) {
+.SIGN-UP .ice {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 52px;
+  position: relative;
+  top: -1px;
+  width: 52px;
+}
 
+.SIGN-UP .pot {
+  position: absolute;
+  top: 23px;
+  left: -48px;
 
-  .wrapper {
-    width: fit-content;
-    position: relative;
-    z-index: -22;
-    overflow: hidden;
-  }
+}
+.SIGN-UP .simple-call-to {
+  height: 580px;
+  left: 101px;
+  position: absolute;
+  top: 156px;
+  width: 1244px;
+}
 
-  .name-logo {
-    width: fit-content;
-    height: fit-content;
-    position: relative;
-  }
+.SIGN-UP .overlap-2 {
+  background-color: var(--colorprimary);
+  border-radius: 40px;
+  height: 580px;
+  position: relative;
+  width: 1240px;
+}
 
-  .circle--pink-bottom {
-    position: absolute;
-    border-radius: 50%;
-    width: 180px;
-    height: 180px;
-    top: 770px;
-    right: 680px;
-  }
+.SIGN-UP .p {
+  color: var(--colorwhite);
+  font-family: var(--sub-headline-font-family);
+  font-size: var(--sub-headline-font-size);
+  font-style: var(--sub-headline-font-style);
+  font-weight: var(--sub-headline-font-weight);
+  left: 100px;
+  letter-spacing: var(--sub-headline-letter-spacing);
+  line-height: var(--sub-headline-line-height);
+  position: absolute;
+  top: 304px;
+  width: 680px;
+}
 
-  .dark--place {
-    position: absolute;
-    width: 1108px;
-    height: 700px;
-    background: #27272E;
-    z-index: -4;
-    border-radius: 40px;
-    border: 1px white solid;
-    top: 1234px;
-    left: 51px;
-  }
+.SIGN-UP .button {
+  background-color: var(--colorwhite);
+  border-radius: 20px;
+  box-shadow: 0px 48px 48px #0000001f, 0px 14px 20px #23225766;
+  height: 72px;
+  left: 401px;
+  position: absolute;
+  top: 474px;
+  width: 383px;
+}
 
-  .explanation-dark--theme {
-    background: none;
-    top: 1292px;
-    left: 112px;
-    height: fit-content;
-    width: fit-content;
-    position: absolute;
-    color: white;
-    font-size: 75px;
-    font-family: DM Sans;
-    font-weight: 500;
-    line-height: 75px;
-    word-wrap: break-word;
-  }
+.SIGN-UP .display {
+  color: var(--colorwhite);
+  font-family: var(--heading-01-font-family);
+  font-size: var(--heading-01-font-size);
+  font-style: var(--heading-01-font-style);
+  font-weight: var(--heading-01-font-weight);
+  left: 100px;
+  letter-spacing: var(--heading-01-letter-spacing);
+  line-height: var(--heading-01-line-height);
+  position: absolute;
+  top: 120px;
+  width: 810px;
+}
 
-  .file-look--back[data-v-02281a80] {
-    position: absolute;
-    top: 649px;
-    right: 99px;
-  }
+.SIGN-UP .sign-up {
+  height: 68px;
+  left: 517px;
+  position: absolute;
+  top: 543px;
+  width: 355px;
+}
 
-  .file-look--front[data-v-02281a80] {
-    position: absolute;
-    top: 717px;
-    right: 122px;
-  }
+.SIGN-UP .display-2 {
+  color: #ffffff;
+  font-family: var(--heading-05-font-family);
+  font-size: var(--heading-05-font-size);
+  font-style: var(--heading-05-font-style);
+  font-weight: var(--heading-05-font-weight);
+  left: 0;
+  letter-spacing: var(--heading-05-letter-spacing);
+  line-height: var(--heading-05-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 353px;
+}
 
-  .circle-pink--darktheme {
-    all: unset;
-  }
+.SIGN-UP .sphere {
+  height: 138px;
+  left: 1081px;
+  position: absolute;
+  top: 726px;
+  width: 138px;
+}
 
-  .find-the-right {
-    top: 2239px;
-    right: 373px;
-    z-index: -3;
-    position: relative;
-    width: 100%;
-    height: 1102px;
-    background: #fff;
-  }
-
-  .explanation-brand[data-v-02281a80] {
-    top: 170px;
-    color: #999FAE;
-    font-family: Poppins;
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    letter-spacing: 0.64px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: fit-content;
-    height: fit-content;
-    margin-left: 47px;
-    margin-top: 88px;
-  }
-
+.SIGN-UP .background-cloud {
+  height: 480px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 411px;
 }
 </style>
 
